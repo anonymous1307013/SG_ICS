@@ -630,3 +630,68 @@ RTU resiliency: 0 and IED resiliency: 7
 Number of total threat vectors: 8
 ***************************
 
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:7, 0
+RTU resiliency: 0 and IED resiliency: 1
+RTU resiliency: 0 and IED resiliency: 2
+RTU resiliency: 0 and IED resiliency: 3
+RTU resiliency: 0 and IED resiliency: 4
+
+RTU resiliency: 0 and IED resiliency: 5
+RTU resiliency: 0 and IED resiliency: 6
+RTU resiliency: 0 and IED resiliency: 7
+Number of total threat vectors: 1
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:7, 0
+RTU resiliency: 0 and IED resiliency: 1
+RTU resiliency: 0 and IED resiliency: 2
+RTU resiliency: 0 and IED resiliency: 3
+RTU resiliency: 0 and IED resiliency: 4
+
+RTU resiliency: 0 and IED resiliency: 5
+RTU resiliency: 0 and IED resiliency: 6
+RTU resiliency: 0 and IED resiliency: 7
+Number of total threat vectors: 1
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:7, 0
+RTU resiliency: 0 and IED resiliency: 1
+RTU resiliency: 0 and IED resiliency: 2
+RTU resiliency: 0 and IED resiliency: 3
+RTU resiliency: 0 and IED resiliency: 4
+
+RTU resiliency: 0 and IED resiliency: 5
+RTU resiliency: 0 and IED resiliency: 6
+RTU resiliency: 0 and IED resiliency: 7
+Number of total threat vectors: 1
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:7, 0
+RTU resiliency: 0 and IED resiliency: 1
+RTU resiliency: 0 and IED resiliency: 2
+RTU resiliency: 0 and IED resiliency: 3
+RTU resiliency: 0 and IED resiliency: 4
+
+RTU resiliency: 0 and IED resiliency: 5
+RTU resiliency: 0 and IED resiliency: 6
+RTU resiliency: 0 and IED resiliency: 7
+Number of total threat vectors: 1
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:7, 0
+RTU resiliency: 0 and IED resiliency: 1
+RTU resiliency: 0 and IED resiliency: 2
+RTU resiliency: 0 and IED resiliency: 3
+RTU resiliency: 0 and IED resiliency: 4
+
+RTU resiliency: 0 and IED resiliency: 5
+RTU resiliency: 0 and IED resiliency: 6
+RTU resiliency: 0 and IED resiliency: 7
+Number of total threat vectors: 1
+***************************
+

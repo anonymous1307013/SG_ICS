@@ -171786,3 +171786,1308 @@ unsat
 No more satisfiabile result
 ***************************
 
+Execution time: 0:00:00.033926
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.036901
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.077795
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.067928
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: None
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: True
+
+Nodes (Int)
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: None
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: 1
+
+CommPath for IEDs
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+
+Delivered measurements
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: False
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: False
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: False
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: False
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: False
+44: None
+45: None
+46: None
+47: None
+48: None
+49: None
+50: None
+51: None
+52: False
+53: None
+54: None
+
+Delivered unique measurements
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+
+Delivered states
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+***************************
+
+Execution time: 0:00:00.026930
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.034907
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.043883
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.062835
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: None
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: True
+
+Nodes (Int)
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: None
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: 1
+
+CommPath for IEDs
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+
+Delivered measurements
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: False
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: False
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: False
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: False
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: False
+44: None
+45: None
+46: None
+47: None
+48: None
+49: None
+50: None
+51: None
+52: False
+53: None
+54: None
+
+Delivered unique measurements
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+
+Delivered states
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+***************************
+
+Execution time: 0:00:00.025953
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.040402
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.048879
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.067819
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: None
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: True
+
+Nodes (Int)
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: None
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: 1
+
+CommPath for IEDs
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+
+Delivered measurements
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: False
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: False
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: False
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: False
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: False
+44: None
+45: None
+46: None
+47: None
+48: None
+49: None
+50: None
+51: None
+52: False
+53: None
+54: None
+
+Delivered unique measurements
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+
+Delivered states
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+***************************
+
+Execution time: 0:00:00.026933
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.037898
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.051861
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.106715
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: None
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: True
+
+Nodes (Int)
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: None
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: 1
+
+CommPath for IEDs
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+
+Delivered measurements
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: False
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: False
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: False
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: False
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: False
+44: None
+45: None
+46: None
+47: None
+48: None
+49: None
+50: None
+51: None
+52: False
+53: None
+54: None
+
+Delivered unique measurements
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+
+Delivered states
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+***************************
+
+Execution time: 0:00:00.037902
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.049410
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.058843
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00.092737
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: None
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: True
+
+Nodes (Int)
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: None
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: 1
+
+CommPath for IEDs
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+
+Delivered measurements
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: False
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: False
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: False
+28: None
+29: None
+30: None
+31: None
+32: None
+33: None
+34: None
+35: False
+36: None
+37: None
+38: None
+39: None
+40: None
+41: None
+42: None
+43: False
+44: None
+45: None
+46: None
+47: None
+48: None
+49: None
+50: None
+51: None
+52: False
+53: None
+54: None
+
+Delivered unique measurements
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+15: None
+16: None
+17: None
+18: None
+19: None
+20: None
+21: None
+22: None
+23: None
+24: None
+25: None
+26: None
+27: None
+28: None
+29: None
+30: None
+31: None
+32: None
+
+Delivered states
+1: None
+2: None
+3: None
+4: None
+5: None
+6: None
+7: None
+8: None
+9: None
+10: None
+11: None
+12: None
+13: None
+14: None
+
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+Execution time: 0:00:00
+unsat
+
+No more satisfiabile result
+***************************
+
