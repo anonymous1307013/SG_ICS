@@ -1,0 +1,21 @@
+Fig. 5(a)
+
+SAT
+IED 1 RTU 0
+1-0_1
+1_0_2
+1-0_3
+
+UNSAT
+IED 0 RTU 1
+0-1_1
+0-1_2
+0-1_3
+
+IED 1 RTU 1
+1-1_1
+1-1_2
+1-1_3
+
+Fig. 5(b)
+The same set can work

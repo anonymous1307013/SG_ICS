@@ -1,0 +1,3743 @@
+sat
+Model
+[secured_state_ied_relation_2_5 = True,
+ secured_state_ied_relation_2_8 = False,
+ secured_state_ied_relation_5_7 = True,
+ unique_msr_secured_int_7 = 0,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_ied_relation_4_7 = False,
+ secured_state_rtu_relation_int_2_11 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_5_12 = 1,
+ unique_msr_secured_int_6 = 1,
+ secured_state_ied_relation_int_5_6 = 0,
+ secured_state_ied_relation_4_6 = True,
+ unique_msr_secured_6 = True,
+ secured_state_ied_relation_4_8 = False,
+ secured_state_ied_relation_2_6 = True,
+ secured_state_ied_relation_int_2_7 = 0,
+ secured_state_rtu_relation_1_12 = True,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = True,
+ secured_state_ied_relation_3_6 = True,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_5 = True,
+ secured_state_ied_relation_int_2_5 = 1,
+ unique_msr_secured_3 = False,
+ msr_secured_10 = False,
+ secured_state_ied_relation_int_5_7 = 1,
+ secured_state_ied_relation_int_4_6 = 1,
+ secured_state_ied_relation_int_1_8 = 1,
+ unique_msr_secured_int_4 = 1,
+ msr_secured_6 = True,
+ unique_msr_secured_10 = True,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = True,
+ msr_secured_7 = True,
+ secured_state_ied_relation_1_7 = True,
+ secured_state_ied_relation_5_8 = False,
+ msr_secured_8 = False,
+ secured_state_rtu_relation_5_11 = False,
+ secured_state_rtu_relation_5_12 = True,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_ied_relation_int_5_5 = 1,
+ msr_secured_14 = True,
+ unique_msr_secured_2 = True,
+ secured_state_ied_relation_2_7 = False,
+ secured_state_rtu_relation_2_11 = True,
+ unique_msr_secured_7 = False,
+ secured_state_ied_relation_int_3_5 = 1,
+ msr_secured_9 = True,
+ secured_state_ied_relation_int_3_6 = 1,
+ unique_msr_secured_int_3 = 0,
+ secured_state_ied_relation_5_5 = True,
+ secured_state_rtu_relation_int_1_12 = 1,
+ secured_state_rtu_relation_int_2_12 = 0,
+ secured_state_rtu_relation_int_5_11 = 0,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_ied_relation_5_6 = False,
+ secured_state_rtu_relation_2_12 = False,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_2_6 = 1,
+ secured_state_ied_relation_1_8 = True,
+ msr_secured_13 = True,
+ msr_secured_4 = True,
+ unique_msr_secured_int_10 = 1,
+ secured_state_rtu_relation_int_3_11 = 1,
+ unique_msr_secured_int_11 = 1,
+ secured_state_ied_relation_int_1_7 = 1,
+ integrity_protected_8 = True,
+ authenticated_8 = True,
+ integrity_protected_6 = True,
+ authenticated_6 = True,
+ integrity_protected_7 = True,
+ authenticated_7 = True,
+ integrity_protected_5 = True,
+ authenticated_5 = True,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_5_9 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ secured_state_rtu_relation_int_4_9 = 0,
+ secured_state_rtu_relation_int_3_12 = 0,
+ secured_state_rtu_relation_int_3_10 = 0,
+ secured_state_rtu_relation_int_3_9 = 0,
+ secured_state_rtu_relation_int_2_10 = 0,
+ secured_state_rtu_relation_int_2_9 = 0,
+ secured_state_rtu_relation_int_1_11 = 0,
+ secured_state_rtu_relation_int_1_10 = 0,
+ secured_state_rtu_relation_int_1_9 = 0,
+ secured_state_ied_relation_int_5_4 = 0,
+ secured_state_ied_relation_int_5_3 = 0,
+ secured_state_ied_relation_int_5_2 = 0,
+ secured_state_ied_relation_int_5_1 = 0,
+ secured_state_ied_relation_int_4_4 = 0,
+ secured_state_ied_relation_int_4_3 = 0,
+ secured_state_ied_relation_int_4_2 = 0,
+ secured_state_ied_relation_int_4_1 = 0,
+ secured_state_ied_relation_int_3_8 = 0,
+ secured_state_ied_relation_int_3_7 = 0,
+ secured_state_ied_relation_int_3_4 = 0,
+ secured_state_ied_relation_int_3_3 = 0,
+ secured_state_ied_relation_int_3_2 = 0,
+ secured_state_ied_relation_int_3_1 = 0,
+ secured_state_ied_relation_int_2_4 = 0,
+ secured_state_ied_relation_int_2_3 = 0,
+ secured_state_ied_relation_int_2_2 = 0,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_1_6 = 0,
+ secured_state_ied_relation_int_1_5 = 0,
+ secured_state_ied_relation_int_1_4 = 0,
+ secured_state_ied_relation_int_1_3 = 0,
+ secured_state_ied_relation_int_1_2 = 0,
+ secured_state_ied_relation_int_1_1 = 0,
+ state_secured_5 = True,
+ state_secured_4 = True,
+ state_secured_3 = True,
+ state_secured_2 = True,
+ state_secured_1 = True,
+ unique_msr_secured_int_9 = 0,
+ unique_msr_secured_int_8 = 0,
+ unique_msr_secured_int_5 = 0,
+ unique_msr_secured_int_1 = 0,
+ secured_state_rtu_relation_5_10 = False,
+ secured_state_rtu_relation_5_9 = False,
+ secured_state_rtu_relation_4_10 = False,
+ secured_state_rtu_relation_4_9 = False,
+ secured_state_rtu_relation_3_12 = False,
+ secured_state_rtu_relation_3_10 = False,
+ ...]
+
+Authenticated IEDs
+1: None
+2: None
+3: None
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Integrity protected IEDs
+1: False
+2: False
+3: False
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: True
+7: True
+8: False
+9: True
+10: False
+11: False
+12: False
+13: True
+14: True
+
+Secured unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: True
+7: False
+8: False
+9: False
+10: True
+11: True
+
+Ieds Corresponding to Secured states
+sat
+Model
+[secured_state_ied_relation_2_5 = True,
+ secured_state_ied_relation_2_8 = False,
+ secured_state_ied_relation_5_7 = True,
+ unique_msr_secured_int_7 = 0,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_ied_relation_4_7 = False,
+ secured_state_rtu_relation_int_2_11 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_5_12 = 1,
+ unique_msr_secured_int_6 = 1,
+ secured_state_ied_relation_int_5_6 = 0,
+ secured_state_ied_relation_4_6 = True,
+ unique_msr_secured_6 = True,
+ secured_state_ied_relation_4_8 = False,
+ secured_state_ied_relation_2_6 = True,
+ secured_state_ied_relation_int_2_7 = 0,
+ secured_state_rtu_relation_1_12 = True,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = True,
+ secured_state_ied_relation_3_6 = True,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_5 = True,
+ secured_state_ied_relation_int_2_5 = 1,
+ unique_msr_secured_3 = False,
+ msr_secured_10 = False,
+ secured_state_ied_relation_int_5_7 = 1,
+ secured_state_ied_relation_int_4_6 = 1,
+ secured_state_ied_relation_int_1_8 = 1,
+ unique_msr_secured_int_4 = 1,
+ msr_secured_6 = True,
+ unique_msr_secured_10 = True,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = True,
+ msr_secured_7 = True,
+ secured_state_ied_relation_1_7 = True,
+ secured_state_ied_relation_5_8 = False,
+ msr_secured_8 = False,
+ secured_state_rtu_relation_5_11 = False,
+ secured_state_rtu_relation_5_12 = True,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_ied_relation_int_5_5 = 1,
+ msr_secured_14 = True,
+ unique_msr_secured_2 = True,
+ secured_state_ied_relation_2_7 = False,
+ secured_state_rtu_relation_2_11 = True,
+ unique_msr_secured_7 = False,
+ secured_state_ied_relation_int_3_5 = 1,
+ msr_secured_9 = True,
+ secured_state_ied_relation_int_3_6 = 1,
+ unique_msr_secured_int_3 = 0,
+ secured_state_ied_relation_5_5 = True,
+ secured_state_rtu_relation_int_1_12 = 1,
+ secured_state_rtu_relation_int_2_12 = 0,
+ secured_state_rtu_relation_int_5_11 = 0,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_ied_relation_5_6 = False,
+ secured_state_rtu_relation_2_12 = False,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_2_6 = 1,
+ secured_state_ied_relation_1_8 = True,
+ msr_secured_13 = True,
+ msr_secured_4 = True,
+ unique_msr_secured_int_10 = 1,
+ secured_state_rtu_relation_int_3_11 = 1,
+ unique_msr_secured_int_11 = 1,
+ secured_state_ied_relation_int_1_7 = 1,
+ integrity_protected_8 = True,
+ authenticated_8 = True,
+ integrity_protected_6 = True,
+ authenticated_6 = True,
+ integrity_protected_7 = True,
+ authenticated_7 = True,
+ integrity_protected_5 = True,
+ authenticated_5 = True,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_5_9 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ secured_state_rtu_relation_int_4_9 = 0,
+ secured_state_rtu_relation_int_3_12 = 0,
+ secured_state_rtu_relation_int_3_10 = 0,
+ secured_state_rtu_relation_int_3_9 = 0,
+ secured_state_rtu_relation_int_2_10 = 0,
+ secured_state_rtu_relation_int_2_9 = 0,
+ secured_state_rtu_relation_int_1_11 = 0,
+ secured_state_rtu_relation_int_1_10 = 0,
+ secured_state_rtu_relation_int_1_9 = 0,
+ secured_state_ied_relation_int_5_4 = 0,
+ secured_state_ied_relation_int_5_3 = 0,
+ secured_state_ied_relation_int_5_2 = 0,
+ secured_state_ied_relation_int_5_1 = 0,
+ secured_state_ied_relation_int_4_4 = 0,
+ secured_state_ied_relation_int_4_3 = 0,
+ secured_state_ied_relation_int_4_2 = 0,
+ secured_state_ied_relation_int_4_1 = 0,
+ secured_state_ied_relation_int_3_8 = 0,
+ secured_state_ied_relation_int_3_7 = 0,
+ secured_state_ied_relation_int_3_4 = 0,
+ secured_state_ied_relation_int_3_3 = 0,
+ secured_state_ied_relation_int_3_2 = 0,
+ secured_state_ied_relation_int_3_1 = 0,
+ secured_state_ied_relation_int_2_4 = 0,
+ secured_state_ied_relation_int_2_3 = 0,
+ secured_state_ied_relation_int_2_2 = 0,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_1_6 = 0,
+ secured_state_ied_relation_int_1_5 = 0,
+ secured_state_ied_relation_int_1_4 = 0,
+ secured_state_ied_relation_int_1_3 = 0,
+ secured_state_ied_relation_int_1_2 = 0,
+ secured_state_ied_relation_int_1_1 = 0,
+ state_secured_5 = True,
+ state_secured_4 = True,
+ state_secured_3 = True,
+ state_secured_2 = True,
+ state_secured_1 = True,
+ unique_msr_secured_int_9 = 0,
+ unique_msr_secured_int_8 = 0,
+ unique_msr_secured_int_5 = 0,
+ unique_msr_secured_int_1 = 0,
+ secured_state_rtu_relation_5_10 = False,
+ secured_state_rtu_relation_5_9 = False,
+ secured_state_rtu_relation_4_10 = False,
+ secured_state_rtu_relation_4_9 = False,
+ secured_state_rtu_relation_3_12 = False,
+ secured_state_rtu_relation_3_10 = False,
+ ...]
+
+Authenticated IEDs
+1: None
+2: None
+3: None
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Integrity protected IEDs
+1: False
+2: False
+3: False
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: True
+7: True
+8: False
+9: True
+10: False
+11: False
+12: False
+13: True
+14: True
+
+Secured unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: True
+7: False
+8: False
+9: False
+10: True
+11: True
+
+Ieds Corresponding to Secured states
+sat
+Model
+[secured_state_ied_relation_2_5 = True,
+ secured_state_ied_relation_2_8 = False,
+ secured_state_ied_relation_5_7 = True,
+ unique_msr_secured_int_7 = 0,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_ied_relation_4_7 = False,
+ secured_state_rtu_relation_int_2_11 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_5_12 = 1,
+ unique_msr_secured_int_6 = 1,
+ secured_state_ied_relation_int_5_6 = 0,
+ secured_state_ied_relation_4_6 = True,
+ unique_msr_secured_6 = True,
+ secured_state_ied_relation_4_8 = False,
+ secured_state_ied_relation_2_6 = True,
+ secured_state_ied_relation_int_2_7 = 0,
+ secured_state_rtu_relation_1_12 = True,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = True,
+ secured_state_ied_relation_3_6 = True,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_5 = True,
+ secured_state_ied_relation_int_2_5 = 1,
+ unique_msr_secured_3 = False,
+ msr_secured_10 = False,
+ secured_state_ied_relation_int_5_7 = 1,
+ secured_state_ied_relation_int_4_6 = 1,
+ secured_state_ied_relation_int_1_8 = 1,
+ unique_msr_secured_int_4 = 1,
+ msr_secured_6 = True,
+ unique_msr_secured_10 = True,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = True,
+ msr_secured_7 = True,
+ secured_state_ied_relation_1_7 = True,
+ secured_state_ied_relation_5_8 = False,
+ msr_secured_8 = False,
+ secured_state_rtu_relation_5_11 = False,
+ secured_state_rtu_relation_5_12 = True,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_ied_relation_int_5_5 = 1,
+ msr_secured_14 = True,
+ unique_msr_secured_2 = True,
+ secured_state_ied_relation_2_7 = False,
+ secured_state_rtu_relation_2_11 = True,
+ unique_msr_secured_7 = False,
+ secured_state_ied_relation_int_3_5 = 1,
+ msr_secured_9 = True,
+ secured_state_ied_relation_int_3_6 = 1,
+ unique_msr_secured_int_3 = 0,
+ secured_state_ied_relation_5_5 = True,
+ secured_state_rtu_relation_int_1_12 = 1,
+ secured_state_rtu_relation_int_2_12 = 0,
+ secured_state_rtu_relation_int_5_11 = 0,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_ied_relation_5_6 = False,
+ secured_state_rtu_relation_2_12 = False,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_2_6 = 1,
+ secured_state_ied_relation_1_8 = True,
+ msr_secured_13 = True,
+ msr_secured_4 = True,
+ unique_msr_secured_int_10 = 1,
+ secured_state_rtu_relation_int_3_11 = 1,
+ unique_msr_secured_int_11 = 1,
+ secured_state_ied_relation_int_1_7 = 1,
+ integrity_protected_8 = True,
+ authenticated_8 = True,
+ integrity_protected_6 = True,
+ authenticated_6 = True,
+ integrity_protected_7 = True,
+ authenticated_7 = True,
+ integrity_protected_5 = True,
+ authenticated_5 = True,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_5_9 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ secured_state_rtu_relation_int_4_9 = 0,
+ secured_state_rtu_relation_int_3_12 = 0,
+ secured_state_rtu_relation_int_3_10 = 0,
+ secured_state_rtu_relation_int_3_9 = 0,
+ secured_state_rtu_relation_int_2_10 = 0,
+ secured_state_rtu_relation_int_2_9 = 0,
+ secured_state_rtu_relation_int_1_11 = 0,
+ secured_state_rtu_relation_int_1_10 = 0,
+ secured_state_rtu_relation_int_1_9 = 0,
+ secured_state_ied_relation_int_5_4 = 0,
+ secured_state_ied_relation_int_5_3 = 0,
+ secured_state_ied_relation_int_5_2 = 0,
+ secured_state_ied_relation_int_5_1 = 0,
+ secured_state_ied_relation_int_4_4 = 0,
+ secured_state_ied_relation_int_4_3 = 0,
+ secured_state_ied_relation_int_4_2 = 0,
+ secured_state_ied_relation_int_4_1 = 0,
+ secured_state_ied_relation_int_3_8 = 0,
+ secured_state_ied_relation_int_3_7 = 0,
+ secured_state_ied_relation_int_3_4 = 0,
+ secured_state_ied_relation_int_3_3 = 0,
+ secured_state_ied_relation_int_3_2 = 0,
+ secured_state_ied_relation_int_3_1 = 0,
+ secured_state_ied_relation_int_2_4 = 0,
+ secured_state_ied_relation_int_2_3 = 0,
+ secured_state_ied_relation_int_2_2 = 0,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_1_6 = 0,
+ secured_state_ied_relation_int_1_5 = 0,
+ secured_state_ied_relation_int_1_4 = 0,
+ secured_state_ied_relation_int_1_3 = 0,
+ secured_state_ied_relation_int_1_2 = 0,
+ secured_state_ied_relation_int_1_1 = 0,
+ state_secured_5 = True,
+ state_secured_4 = True,
+ state_secured_3 = True,
+ state_secured_2 = True,
+ state_secured_1 = True,
+ unique_msr_secured_int_9 = 0,
+ unique_msr_secured_int_8 = 0,
+ unique_msr_secured_int_5 = 0,
+ unique_msr_secured_int_1 = 0,
+ secured_state_rtu_relation_5_10 = False,
+ secured_state_rtu_relation_5_9 = False,
+ secured_state_rtu_relation_4_10 = False,
+ secured_state_rtu_relation_4_9 = False,
+ secured_state_rtu_relation_3_12 = False,
+ secured_state_rtu_relation_3_10 = False,
+ ...]
+
+Authenticated IEDs
+1: None
+2: None
+3: None
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Integrity protected IEDs
+1: False
+2: False
+3: False
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: True
+7: True
+8: False
+9: True
+10: False
+11: False
+12: False
+13: True
+14: True
+
+Secured unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: True
+7: False
+8: False
+9: False
+10: True
+11: True
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 0
+1 3: 0
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 1
+1 8: 1
+2 1: 0
+2 2: 0
+2 3: 0
+2 4: 0
+2 5: 1
+2 6: 1
+2 7: 0
+2 8: 0
+3 1: 0
+3 2: 0
+3 3: 0
+3 4: 0
+3 5: 1
+3 6: 1
+3 7: 0
+3 8: 0
+4 1: 0
+4 2: 0
+4 3: 0
+4 4: 0
+4 5: 1
+4 6: 1
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 0
+5 3: 0
+5 4: 0
+5 5: 1
+5 6: 0
+5 7: 1
+5 8: 0
+
+unsat
+unsat
+unsat
+sat
+Model
+[secured_state_ied_relation_2_5 = True,
+ secured_state_ied_relation_5_7 = False,
+ unique_msr_secured_int_7 = 1,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_ied_relation_4_7 = False,
+ secured_state_rtu_relation_int_2_11 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_5_12 = 0,
+ unique_msr_secured_int_6 = 1,
+ secured_state_ied_relation_int_5_6 = 0,
+ secured_state_ied_relation_4_6 = False,
+ unique_msr_secured_6 = True,
+ secured_state_ied_relation_2_6 = False,
+ secured_state_ied_relation_int_2_7 = 0,
+ secured_state_rtu_relation_1_12 = True,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = True,
+ secured_state_ied_relation_3_6 = False,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_5 = True,
+ secured_state_ied_relation_int_2_5 = 1,
+ unique_msr_secured_3 = True,
+ msr_secured_10 = False,
+ secured_state_ied_relation_int_5_7 = 0,
+ secured_state_ied_relation_int_4_6 = 0,
+ unique_msr_secured_int_4 = 1,
+ unique_msr_secured_10 = False,
+ secured_state_rtu_relation_int_4_12 = 0,
+ msr_secured_7 = True,
+ secured_state_ied_relation_1_7 = True,
+ secured_state_rtu_relation_5_11 = True,
+ msr_secured_8 = True,
+ secured_state_rtu_relation_5_12 = False,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_rtu_relation_int_2_12 = 0,
+ secured_state_rtu_relation_int_1_12 = 1,
+ secured_state_ied_relation_int_5_5 = 1,
+ secured_state_rtu_relation_int_5_11 = 1,
+ unique_msr_secured_2 = True,
+ secured_state_ied_relation_2_7 = False,
+ secured_state_rtu_relation_2_11 = True,
+ unique_msr_secured_7 = True,
+ secured_state_ied_relation_int_3_5 = 1,
+ msr_secured_9 = True,
+ secured_state_ied_relation_int_3_6 = 0,
+ unique_msr_secured_int_3 = 1,
+ secured_state_ied_relation_5_5 = True,
+ secured_state_ied_relation_5_6 = False,
+ secured_state_rtu_relation_2_12 = False,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_2_6 = 0,
+ msr_secured_13 = False,
+ msr_secured_4 = True,
+ unique_msr_secured_int_10 = 0,
+ secured_state_rtu_relation_int_3_11 = 1,
+ secured_state_ied_relation_int_1_7 = 1,
+ integrity_protected_6 = True,
+ authenticated_6 = False,
+ integrity_protected_5 = True,
+ authenticated_5 = True,
+ integrity_protected_7 = True,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_5_9 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ secured_state_rtu_relation_int_4_9 = 0,
+ secured_state_rtu_relation_int_3_12 = 0,
+ secured_state_rtu_relation_int_3_10 = 0,
+ secured_state_rtu_relation_int_3_9 = 0,
+ secured_state_rtu_relation_int_2_10 = 0,
+ secured_state_rtu_relation_int_2_9 = 0,
+ secured_state_rtu_relation_int_1_11 = 0,
+ secured_state_rtu_relation_int_1_10 = 0,
+ secured_state_rtu_relation_int_1_9 = 0,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_ied_relation_int_5_4 = 0,
+ secured_state_ied_relation_int_5_3 = 0,
+ secured_state_ied_relation_int_5_2 = 0,
+ secured_state_ied_relation_int_5_1 = 0,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_ied_relation_int_4_4 = 0,
+ secured_state_ied_relation_int_4_3 = 0,
+ secured_state_ied_relation_int_4_2 = 0,
+ secured_state_ied_relation_int_4_1 = 0,
+ secured_state_ied_relation_int_3_8 = 0,
+ secured_state_ied_relation_int_3_7 = 0,
+ secured_state_ied_relation_int_3_4 = 0,
+ secured_state_ied_relation_int_3_3 = 0,
+ secured_state_ied_relation_int_3_2 = 0,
+ secured_state_ied_relation_int_3_1 = 0,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_int_2_4 = 0,
+ secured_state_ied_relation_int_2_3 = 0,
+ secured_state_ied_relation_int_2_2 = 0,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_1_8 = 0,
+ secured_state_ied_relation_int_1_6 = 0,
+ secured_state_ied_relation_int_1_5 = 0,
+ secured_state_ied_relation_int_1_4 = 0,
+ secured_state_ied_relation_int_1_3 = 0,
+ secured_state_ied_relation_int_1_2 = 0,
+ secured_state_ied_relation_int_1_1 = 0,
+ state_secured_5 = True,
+ state_secured_4 = True,
+ state_secured_3 = True,
+ state_secured_2 = True,
+ state_secured_1 = True,
+ unique_msr_secured_int_11 = 0,
+ unique_msr_secured_int_9 = 0,
+ unique_msr_secured_int_8 = 0,
+ unique_msr_secured_int_5 = 0,
+ unique_msr_secured_int_1 = 0,
+ secured_state_rtu_relation_5_10 = False,
+ secured_state_rtu_relation_5_9 = False,
+ secured_state_rtu_relation_4_10 = False,
+ secured_state_rtu_relation_4_9 = False,
+ secured_state_rtu_relation_3_12 = False,
+ secured_state_rtu_relation_3_10 = False,
+ secured_state_rtu_relation_3_9 = False,
+ secured_state_rtu_relation_2_10 = False,
+ secured_state_rtu_relation_2_9 = False,
+ secured_state_rtu_relation_1_11 = False,
+ secured_state_rtu_relation_1_10 = False,
+ secured_state_rtu_relation_1_9 = False,
+ secured_state_ied_relation_5_8 = False,
+ secured_state_ied_relation_5_4 = False,
+ secured_state_ied_relation_5_3 = False,
+ secured_state_ied_relation_5_2 = False,
+ ...]
+
+Authenticated IEDs
+1: None
+2: None
+3: None
+4: False
+5: True
+6: False
+7: True
+8: None
+
+Integrity protected IEDs
+1: False
+2: False
+3: False
+4: False
+5: True
+6: True
+7: True
+8: False
+
+Secured measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: True
+7: True
+8: True
+9: True
+10: False
+11: False
+12: False
+13: False
+14: False
+
+Secured unique measurements
+1: False
+2: True
+3: True
+4: True
+5: False
+6: True
+7: True
+8: False
+9: False
+10: False
+11: False
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 0
+1 3: 0
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 1
+1 8: 0
+2 1: 0
+2 2: 0
+2 3: 0
+2 4: 0
+2 5: 1
+2 6: 0
+2 7: 0
+2 8: 0
+3 1: 0
+3 2: 0
+3 3: 0
+3 4: 0
+3 5: 1
+3 6: 0
+3 7: 0
+3 8: 0
+4 1: 0
+4 2: 0
+4 3: 0
+4 4: 0
+4 5: 1
+4 6: 0
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 0
+5 3: 0
+5 4: 0
+5 5: 1
+5 6: 0
+5 7: 0
+5 8: 0
+
+sat
+Model
+[secured_state_ied_relation_2_5 = False,
+ secured_state_ied_relation_2_8 = False,
+ secured_state_ied_relation_5_7 = False,
+ secured_state_rtu_relation_3_11 = False,
+ secured_state_rtu_relation_int_2_11 = 0,
+ secured_state_rtu_relation_4_11 = False,
+ secured_state_rtu_relation_int_2_9 = 1,
+ secured_state_rtu_relation_2_9 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_5_9 = 1,
+ secured_state_ied_relation_4_6 = False,
+ unique_msr_secured_6 = False,
+ unique_msr_secured_8 = False,
+ secured_state_ied_relation_int_5_3 = 1,
+ unique_msr_secured_1 = True,
+ secured_state_rtu_relation_4_9 = True,
+ secured_state_ied_relation_5_2 = True,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_1_3 = True,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_int_4_3 = 1,
+ msr_secured_5 = True,
+ secured_state_ied_relation_int_4_5 = 0,
+ secured_state_ied_relation_4_3 = True,
+ secured_state_ied_relation_int_2_5 = 0,
+ msr_secured_10 = False,
+ secured_state_ied_relation_int_4_1 = 1,
+ secured_state_ied_relation_int_4_6 = 0,
+ secured_state_ied_relation_int_1_8 = 0,
+ unique_msr_secured_int_4 = 0,
+ msr_secured_6 = False,
+ unique_msr_secured_10 = False,
+ secured_state_rtu_relation_int_2_12 = 0,
+ secured_state_rtu_relation_5_12 = False,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_rtu_relation_int_1_12 = 0,
+ unique_msr_secured_int_5 = 1,
+ unique_msr_secured_2 = True,
+ secured_state_ied_relation_2_7 = False,
+ msr_secured_2 = True,
+ secured_state_ied_relation_5_5 = False,
+ unique_msr_secured_int_3 = 0,
+ secured_state_ied_relation_5_3 = True,
+ secured_state_rtu_relation_int_3_9 = 1,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_rtu_relation_int_4_11 = 0,
+ secured_state_ied_relation_int_2_3 = 0,
+ secured_state_ied_relation_1_8 = False,
+ msr_secured_4 = False,
+ secured_state_ied_relation_1_2 = True,
+ secured_state_rtu_relation_int_3_11 = 0,
+ secured_state_ied_relation_4_1 = True,
+ unique_msr_secured_int_11 = 1,
+ unique_msr_secured_int_8 = 0,
+ secured_state_ied_relation_2_1 = True,
+ secured_state_ied_relation_3_3 = True,
+ secured_state_ied_relation_4_7 = False,
+ msr_secured_11 = True,
+ unique_msr_secured_int_7 = 1,
+ secured_state_ied_relation_int_5_2 = 1,
+ msr_secured_3 = True,
+ secured_state_rtu_relation_int_5_12 = 0,
+ unique_msr_secured_int_6 = 0,
+ secured_state_ied_relation_int_5_6 = 0,
+ secured_state_ied_relation_int_1_2 = 1,
+ secured_state_ied_relation_4_8 = False,
+ unique_msr_secured_int_1 = 1,
+ secured_state_ied_relation_2_6 = False,
+ secured_state_ied_relation_int_2_7 = 0,
+ secured_state_ied_relation_2_3 = False,
+ secured_state_rtu_relation_1_12 = False,
+ secured_state_rtu_relation_5_9 = True,
+ secured_state_ied_relation_3_5 = False,
+ unique_msr_secured_4 = False,
+ secured_state_ied_relation_3_6 = False,
+ secured_state_rtu_relation_int_4_9 = 1,
+ secured_state_ied_relation_4_5 = False,
+ unique_msr_secured_3 = False,
+ secured_state_ied_relation_int_5_7 = 0,
+ secured_state_ied_relation_3_1 = True,
+ msr_secured_1 = True,
+ secured_state_rtu_relation_int_1_9 = 1,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = True,
+ msr_secured_7 = False,
+ secured_state_ied_relation_1_7 = False,
+ secured_state_ied_relation_5_8 = False,
+ msr_secured_8 = False,
+ secured_state_rtu_relation_5_11 = False,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_rtu_relation_int_5_11 = 0,
+ secured_state_ied_relation_int_5_5 = 0,
+ msr_secured_14 = True,
+ unique_msr_secured_5 = True,
+ secured_state_rtu_relation_2_11 = False,
+ secured_state_ied_relation_int_2_2 = 1,
+ unique_msr_secured_7 = True,
+ secured_state_rtu_relation_1_9 = True,
+ msr_secured_9 = True,
+ secured_state_ied_relation_int_3_5 = 0,
+ secured_state_ied_relation_int_3_6 = 0,
+ secured_state_rtu_relation_3_9 = True,
+ secured_state_ied_relation_int_2_1 = 1,
+ secured_state_ied_relation_int_3_3 = 1,
+ secured_state_ied_relation_int_3_1 = 1,
+ secured_state_ied_relation_5_6 = False,
+ secured_state_rtu_relation_2_12 = False,
+ secured_state_ied_relation_int_1_3 = 1,
+ secured_state_ied_relation_int_2_6 = 0,
+ msr_secured_13 = False,
+ unique_msr_secured_int_10 = 0,
+ secured_state_ied_relation_int_1_7 = 0,
+ secured_state_ied_relation_2_2 = True,
+ integrity_protected_8 = True,
+ authenticated_8 = True,
+ integrity_protected_6 = True,
+ authenticated_6 = False,
+ integrity_protected_3 = True,
+ authenticated_3 = True,
+ integrity_protected_7 = True,
+ authenticated_7 = False,
+ integrity_protected_5 = True,
+ authenticated_5 = True,
+ integrity_protected_2 = True,
+ authenticated_2 = True,
+ integrity_protected_1 = True,
+ authenticated_1 = True,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ ...]
+
+Authenticated IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: False
+7: False
+8: True
+
+Integrity protected IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: True
+2: True
+3: True
+4: False
+5: True
+6: False
+7: False
+8: False
+9: True
+10: False
+11: True
+12: False
+13: False
+14: True
+
+Secured unique measurements
+1: True
+2: True
+3: False
+4: False
+5: True
+6: False
+7: True
+8: False
+9: False
+10: False
+11: True
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 1
+1 3: 1
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 0
+1 8: 0
+2 1: 1
+2 2: 1
+2 3: 0
+2 4: 0
+2 5: 0
+2 6: 0
+2 7: 0
+2 8: 0
+3 1: 1
+3 2: 0
+3 3: 1
+3 4: 0
+3 5: 0
+3 6: 0
+3 7: 0
+3 8: 0
+4 1: 1
+4 2: 0
+4 3: 1
+4 4: 0
+4 5: 0
+4 6: 0
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 1
+5 3: 1
+5 4: 0
+5 5: 0
+5 6: 0
+5 7: 0
+5 8: 0
+
+sat
+Model
+[secured_state_ied_relation_2_5 = True,
+ secured_state_ied_relation_2_8 = False,
+ secured_state_ied_relation_5_7 = False,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_rtu_relation_int_2_11 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_rtu_relation_int_2_9 = 1,
+ secured_state_rtu_relation_2_9 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_5_9 = 1,
+ secured_state_ied_relation_4_6 = False,
+ unique_msr_secured_6 = True,
+ unique_msr_secured_8 = False,
+ secured_state_ied_relation_int_5_3 = 0,
+ unique_msr_secured_1 = True,
+ secured_state_rtu_relation_4_9 = True,
+ secured_state_ied_relation_5_2 = True,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_1_3 = True,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_int_4_3 = 0,
+ msr_secured_5 = False,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_3 = False,
+ secured_state_ied_relation_int_2_5 = 1,
+ msr_secured_10 = False,
+ secured_state_ied_relation_int_4_1 = 1,
+ secured_state_ied_relation_int_4_6 = 0,
+ secured_state_ied_relation_int_1_8 = 0,
+ unique_msr_secured_int_4 = 0,
+ msr_secured_6 = True,
+ unique_msr_secured_10 = False,
+ secured_state_rtu_relation_int_2_12 = 0,
+ secured_state_rtu_relation_5_12 = False,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_rtu_relation_int_1_12 = 1,
+ unique_msr_secured_int_5 = 0,
+ unique_msr_secured_2 = True,
+ secured_state_ied_relation_2_7 = False,
+ msr_secured_2 = True,
+ secured_state_ied_relation_5_5 = True,
+ unique_msr_secured_int_3 = 1,
+ secured_state_ied_relation_5_3 = False,
+ secured_state_rtu_relation_int_3_9 = 1,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_2_3 = 0,
+ secured_state_ied_relation_1_8 = False,
+ msr_secured_4 = True,
+ secured_state_ied_relation_1_2 = False,
+ secured_state_rtu_relation_int_3_11 = 1,
+ secured_state_ied_relation_4_1 = True,
+ unique_msr_secured_int_11 = 0,
+ unique_msr_secured_int_8 = 0,
+ secured_state_ied_relation_2_1 = False,
+ secured_state_ied_relation_3_3 = False,
+ secured_state_ied_relation_4_7 = False,
+ msr_secured_11 = True,
+ unique_msr_secured_int_7 = 1,
+ secured_state_ied_relation_int_5_2 = 1,
+ msr_secured_3 = True,
+ secured_state_rtu_relation_int_5_12 = 0,
+ unique_msr_secured_int_6 = 1,
+ secured_state_ied_relation_int_5_6 = 0,
+ secured_state_ied_relation_int_1_2 = 0,
+ secured_state_ied_relation_4_8 = False,
+ unique_msr_secured_int_1 = 1,
+ secured_state_ied_relation_2_6 = False,
+ secured_state_ied_relation_int_2_7 = 0,
+ secured_state_ied_relation_2_3 = False,
+ secured_state_rtu_relation_1_12 = True,
+ secured_state_rtu_relation_5_9 = True,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = False,
+ secured_state_ied_relation_3_6 = False,
+ secured_state_rtu_relation_int_4_9 = 1,
+ secured_state_ied_relation_4_5 = True,
+ unique_msr_secured_3 = True,
+ secured_state_ied_relation_int_5_7 = 0,
+ secured_state_ied_relation_3_1 = True,
+ msr_secured_1 = True,
+ secured_state_rtu_relation_int_1_9 = 1,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = False,
+ msr_secured_7 = True,
+ secured_state_ied_relation_1_7 = True,
+ secured_state_ied_relation_5_8 = False,
+ msr_secured_8 = False,
+ secured_state_rtu_relation_5_11 = True,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_rtu_relation_int_5_11 = 1,
+ secured_state_ied_relation_int_5_5 = 1,
+ msr_secured_14 = False,
+ unique_msr_secured_5 = False,
+ secured_state_rtu_relation_2_11 = True,
+ secured_state_ied_relation_int_2_2 = 1,
+ unique_msr_secured_7 = True,
+ secured_state_rtu_relation_1_9 = True,
+ msr_secured_9 = True,
+ secured_state_ied_relation_int_3_5 = 1,
+ secured_state_ied_relation_int_3_6 = 0,
+ secured_state_rtu_relation_3_9 = True,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_3_3 = 0,
+ secured_state_ied_relation_int_3_1 = 1,
+ secured_state_ied_relation_5_6 = False,
+ secured_state_rtu_relation_2_12 = False,
+ secured_state_ied_relation_int_1_3 = 1,
+ secured_state_ied_relation_int_2_6 = 0,
+ msr_secured_13 = False,
+ unique_msr_secured_int_10 = 0,
+ secured_state_ied_relation_int_1_7 = 1,
+ secured_state_ied_relation_2_2 = True,
+ integrity_protected_8 = True,
+ authenticated_8 = False,
+ integrity_protected_6 = True,
+ authenticated_6 = False,
+ integrity_protected_3 = True,
+ authenticated_3 = True,
+ integrity_protected_7 = True,
+ authenticated_7 = True,
+ integrity_protected_5 = True,
+ authenticated_5 = True,
+ integrity_protected_2 = True,
+ authenticated_2 = True,
+ integrity_protected_1 = True,
+ authenticated_1 = True,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ ...]
+
+Authenticated IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: False
+7: True
+8: False
+
+Integrity protected IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: True
+2: True
+3: True
+4: True
+5: False
+6: True
+7: True
+8: False
+9: True
+10: False
+11: True
+12: False
+13: False
+14: False
+
+Secured unique measurements
+1: True
+2: True
+3: True
+4: False
+5: False
+6: True
+7: True
+8: False
+9: False
+10: False
+11: False
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 0
+1 3: 1
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 1
+1 8: 0
+2 1: 0
+2 2: 1
+2 3: 0
+2 4: 0
+2 5: 1
+2 6: 0
+2 7: 0
+2 8: 0
+3 1: 1
+3 2: 0
+3 3: 0
+3 4: 0
+3 5: 1
+3 6: 0
+3 7: 0
+3 8: 0
+4 1: 1
+4 2: 0
+4 3: 0
+4 4: 0
+4 5: 1
+4 6: 0
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 1
+5 3: 0
+5 4: 0
+5 5: 1
+5 6: 0
+5 7: 0
+5 8: 0
+
+sat
+Model
+[secured_state_ied_relation_2_5 = True,
+ secured_state_ied_relation_2_8 = False,
+ secured_state_ied_relation_5_7 = False,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_rtu_relation_int_2_11 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_rtu_relation_int_2_9 = 1,
+ secured_state_rtu_relation_2_9 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_5_9 = 1,
+ secured_state_ied_relation_4_6 = False,
+ unique_msr_secured_6 = True,
+ unique_msr_secured_8 = False,
+ secured_state_ied_relation_int_5_3 = 0,
+ unique_msr_secured_1 = True,
+ secured_state_rtu_relation_4_9 = True,
+ secured_state_ied_relation_5_2 = True,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_1_3 = True,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_int_4_3 = 0,
+ msr_secured_5 = False,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_3 = False,
+ secured_state_ied_relation_int_2_5 = 1,
+ msr_secured_10 = False,
+ secured_state_ied_relation_int_4_1 = 1,
+ secured_state_ied_relation_int_4_6 = 0,
+ secured_state_ied_relation_int_1_8 = 0,
+ unique_msr_secured_int_4 = 0,
+ msr_secured_6 = True,
+ unique_msr_secured_10 = False,
+ secured_state_rtu_relation_int_2_12 = 0,
+ secured_state_rtu_relation_5_12 = False,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_rtu_relation_int_1_12 = 1,
+ unique_msr_secured_int_5 = 0,
+ unique_msr_secured_2 = True,
+ secured_state_ied_relation_2_7 = False,
+ msr_secured_2 = True,
+ secured_state_ied_relation_5_5 = True,
+ unique_msr_secured_int_3 = 1,
+ secured_state_ied_relation_5_3 = False,
+ secured_state_rtu_relation_int_3_9 = 1,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_2_3 = 0,
+ secured_state_ied_relation_1_8 = False,
+ msr_secured_4 = True,
+ secured_state_ied_relation_1_2 = False,
+ secured_state_rtu_relation_int_3_11 = 1,
+ secured_state_ied_relation_4_1 = True,
+ unique_msr_secured_int_11 = 0,
+ unique_msr_secured_int_8 = 0,
+ secured_state_ied_relation_2_1 = False,
+ secured_state_ied_relation_3_3 = False,
+ secured_state_ied_relation_4_7 = False,
+ msr_secured_11 = True,
+ unique_msr_secured_int_7 = 1,
+ secured_state_ied_relation_int_5_2 = 1,
+ msr_secured_3 = True,
+ secured_state_rtu_relation_int_5_12 = 0,
+ unique_msr_secured_int_6 = 1,
+ secured_state_ied_relation_int_5_6 = 0,
+ secured_state_ied_relation_int_1_2 = 0,
+ secured_state_ied_relation_4_8 = False,
+ unique_msr_secured_int_1 = 1,
+ secured_state_ied_relation_2_6 = False,
+ secured_state_ied_relation_int_2_7 = 0,
+ secured_state_ied_relation_2_3 = False,
+ secured_state_rtu_relation_1_12 = True,
+ secured_state_rtu_relation_5_9 = True,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = False,
+ secured_state_ied_relation_3_6 = False,
+ secured_state_rtu_relation_int_4_9 = 1,
+ secured_state_ied_relation_4_5 = True,
+ unique_msr_secured_3 = True,
+ secured_state_ied_relation_int_5_7 = 0,
+ secured_state_ied_relation_3_1 = True,
+ msr_secured_1 = True,
+ secured_state_rtu_relation_int_1_9 = 1,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = False,
+ msr_secured_7 = True,
+ secured_state_ied_relation_1_7 = True,
+ secured_state_ied_relation_5_8 = False,
+ msr_secured_8 = False,
+ secured_state_rtu_relation_5_11 = True,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_rtu_relation_int_5_11 = 1,
+ secured_state_ied_relation_int_5_5 = 1,
+ msr_secured_14 = False,
+ unique_msr_secured_5 = False,
+ secured_state_rtu_relation_2_11 = True,
+ secured_state_ied_relation_int_2_2 = 1,
+ unique_msr_secured_7 = True,
+ secured_state_rtu_relation_1_9 = True,
+ msr_secured_9 = True,
+ secured_state_ied_relation_int_3_5 = 1,
+ secured_state_ied_relation_int_3_6 = 0,
+ secured_state_rtu_relation_3_9 = True,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_3_3 = 0,
+ secured_state_ied_relation_int_3_1 = 1,
+ secured_state_ied_relation_5_6 = False,
+ secured_state_rtu_relation_2_12 = False,
+ secured_state_ied_relation_int_1_3 = 1,
+ secured_state_ied_relation_int_2_6 = 0,
+ msr_secured_13 = False,
+ unique_msr_secured_int_10 = 0,
+ secured_state_ied_relation_int_1_7 = 1,
+ secured_state_ied_relation_2_2 = True,
+ integrity_protected_8 = True,
+ authenticated_8 = False,
+ integrity_protected_6 = True,
+ authenticated_6 = False,
+ integrity_protected_3 = True,
+ authenticated_3 = True,
+ integrity_protected_7 = True,
+ authenticated_7 = True,
+ integrity_protected_5 = True,
+ authenticated_5 = True,
+ integrity_protected_2 = True,
+ authenticated_2 = True,
+ integrity_protected_1 = True,
+ authenticated_1 = True,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ ...]
+
+Authenticated IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: False
+7: True
+8: False
+
+Integrity protected IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: True
+2: True
+3: True
+4: True
+5: False
+6: True
+7: True
+8: False
+9: True
+10: False
+11: True
+12: False
+13: False
+14: False
+
+Secured unique measurements
+1: True
+2: True
+3: True
+4: False
+5: False
+6: True
+7: True
+8: False
+9: False
+10: False
+11: False
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 0
+1 3: 1
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 1
+1 8: 0
+2 1: 0
+2 2: 1
+2 3: 0
+2 4: 0
+2 5: 1
+2 6: 0
+2 7: 0
+2 8: 0
+3 1: 1
+3 2: 0
+3 3: 0
+3 4: 0
+3 5: 1
+3 6: 0
+3 7: 0
+3 8: 0
+4 1: 1
+4 2: 0
+4 3: 0
+4 4: 0
+4 5: 1
+4 6: 0
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 1
+5 3: 0
+5 4: 0
+5 5: 1
+5 6: 0
+5 7: 0
+5 8: 0
+
+sat
+Model
+[secured_state_ied_relation_2_5 = True,
+ secured_state_ied_relation_2_8 = False,
+ secured_state_ied_relation_5_7 = False,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_rtu_relation_int_2_11 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_rtu_relation_int_2_9 = 1,
+ secured_state_rtu_relation_2_9 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_5_9 = 1,
+ secured_state_ied_relation_4_6 = False,
+ unique_msr_secured_6 = True,
+ unique_msr_secured_8 = False,
+ secured_state_ied_relation_int_5_3 = 0,
+ unique_msr_secured_1 = True,
+ secured_state_rtu_relation_4_9 = True,
+ secured_state_ied_relation_5_2 = True,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_1_3 = True,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_int_4_3 = 0,
+ msr_secured_5 = False,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_3 = False,
+ secured_state_ied_relation_int_2_5 = 1,
+ msr_secured_10 = False,
+ secured_state_ied_relation_int_4_1 = 1,
+ secured_state_ied_relation_int_4_6 = 0,
+ secured_state_ied_relation_int_1_8 = 0,
+ unique_msr_secured_int_4 = 0,
+ msr_secured_6 = True,
+ unique_msr_secured_10 = False,
+ secured_state_rtu_relation_int_2_12 = 0,
+ secured_state_rtu_relation_5_12 = False,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_rtu_relation_int_1_12 = 1,
+ unique_msr_secured_int_5 = 0,
+ unique_msr_secured_2 = True,
+ secured_state_ied_relation_2_7 = False,
+ msr_secured_2 = True,
+ secured_state_ied_relation_5_5 = True,
+ unique_msr_secured_int_3 = 1,
+ secured_state_ied_relation_5_3 = False,
+ secured_state_rtu_relation_int_3_9 = 1,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_2_3 = 0,
+ secured_state_ied_relation_1_8 = False,
+ msr_secured_4 = True,
+ secured_state_ied_relation_1_2 = False,
+ secured_state_rtu_relation_int_3_11 = 1,
+ secured_state_ied_relation_4_1 = True,
+ unique_msr_secured_int_11 = 0,
+ unique_msr_secured_int_8 = 0,
+ secured_state_ied_relation_2_1 = False,
+ secured_state_ied_relation_3_3 = False,
+ secured_state_ied_relation_4_7 = False,
+ msr_secured_11 = True,
+ unique_msr_secured_int_7 = 1,
+ secured_state_ied_relation_int_5_2 = 1,
+ msr_secured_3 = True,
+ secured_state_rtu_relation_int_5_12 = 0,
+ unique_msr_secured_int_6 = 1,
+ secured_state_ied_relation_int_5_6 = 0,
+ secured_state_ied_relation_int_1_2 = 0,
+ secured_state_ied_relation_4_8 = False,
+ unique_msr_secured_int_1 = 1,
+ secured_state_ied_relation_2_6 = False,
+ secured_state_ied_relation_int_2_7 = 0,
+ secured_state_ied_relation_2_3 = False,
+ secured_state_rtu_relation_1_12 = True,
+ secured_state_rtu_relation_5_9 = True,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = False,
+ secured_state_ied_relation_3_6 = False,
+ secured_state_rtu_relation_int_4_9 = 1,
+ secured_state_ied_relation_4_5 = True,
+ unique_msr_secured_3 = True,
+ secured_state_ied_relation_int_5_7 = 0,
+ secured_state_ied_relation_3_1 = True,
+ msr_secured_1 = True,
+ secured_state_rtu_relation_int_1_9 = 1,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = False,
+ msr_secured_7 = True,
+ secured_state_ied_relation_1_7 = True,
+ secured_state_ied_relation_5_8 = False,
+ msr_secured_8 = False,
+ secured_state_rtu_relation_5_11 = True,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_rtu_relation_int_5_11 = 1,
+ secured_state_ied_relation_int_5_5 = 1,
+ msr_secured_14 = False,
+ unique_msr_secured_5 = False,
+ secured_state_rtu_relation_2_11 = True,
+ secured_state_ied_relation_int_2_2 = 1,
+ unique_msr_secured_7 = True,
+ secured_state_rtu_relation_1_9 = True,
+ msr_secured_9 = True,
+ secured_state_ied_relation_int_3_5 = 1,
+ secured_state_ied_relation_int_3_6 = 0,
+ secured_state_rtu_relation_3_9 = True,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_3_3 = 0,
+ secured_state_ied_relation_int_3_1 = 1,
+ secured_state_ied_relation_5_6 = False,
+ secured_state_rtu_relation_2_12 = False,
+ secured_state_ied_relation_int_1_3 = 1,
+ secured_state_ied_relation_int_2_6 = 0,
+ msr_secured_13 = False,
+ unique_msr_secured_int_10 = 0,
+ secured_state_ied_relation_int_1_7 = 1,
+ secured_state_ied_relation_2_2 = True,
+ integrity_protected_8 = True,
+ authenticated_8 = False,
+ integrity_protected_6 = True,
+ authenticated_6 = False,
+ integrity_protected_3 = True,
+ authenticated_3 = True,
+ integrity_protected_7 = True,
+ authenticated_7 = True,
+ integrity_protected_5 = True,
+ authenticated_5 = True,
+ integrity_protected_2 = True,
+ authenticated_2 = True,
+ integrity_protected_1 = True,
+ authenticated_1 = True,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ ...]
+
+Authenticated IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: False
+7: True
+8: False
+
+Integrity protected IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: True
+2: True
+3: True
+4: True
+5: False
+6: True
+7: True
+8: False
+9: True
+10: False
+11: True
+12: False
+13: False
+14: False
+
+Secured unique measurements
+1: True
+2: True
+3: True
+4: False
+5: False
+6: True
+7: True
+8: False
+9: False
+10: False
+11: False
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 0
+1 3: 1
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 1
+1 8: 0
+2 1: 0
+2 2: 1
+2 3: 0
+2 4: 0
+2 5: 1
+2 6: 0
+2 7: 0
+2 8: 0
+3 1: 1
+3 2: 0
+3 3: 0
+3 4: 0
+3 5: 1
+3 6: 0
+3 7: 0
+3 8: 0
+4 1: 1
+4 2: 0
+4 3: 0
+4 4: 0
+4 5: 1
+4 6: 0
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 1
+5 3: 0
+5 4: 0
+5 5: 1
+5 6: 0
+5 7: 0
+5 8: 0
+
+Rtus Corresponding to Secured states
+1 9: 1
+
+1 10: 0
+
+1 11: 0
+
+1 12: 1
+
+2 9: 1
+
+2 10: 0
+
+2 11: 1
+
+2 12: 0
+
+3 9: 1
+
+3 10: 0
+
+3 11: 1
+
+3 12: 0
+
+4 9: 1
+
+4 10: 0
+
+4 11: 1
+
+4 12: 0
+
+5 9: 1
+
+5 10: 0
+
+5 11: 1
+
+5 12: 0
+
+sat
+Model
+[secured_state_ied_relation_2_5 = True,
+ secured_state_ied_relation_2_8 = False,
+ secured_state_ied_relation_5_7 = False,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_rtu_relation_int_2_11 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_rtu_relation_int_2_9 = 1,
+ secured_state_rtu_relation_2_9 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_5_9 = 1,
+ secured_state_ied_relation_4_6 = False,
+ unique_msr_secured_6 = True,
+ unique_msr_secured_8 = False,
+ secured_state_ied_relation_int_5_3 = 0,
+ unique_msr_secured_1 = True,
+ secured_state_rtu_relation_4_9 = True,
+ secured_state_ied_relation_5_2 = True,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_1_3 = True,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_int_4_3 = 0,
+ msr_secured_5 = False,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_3 = False,
+ secured_state_ied_relation_int_2_5 = 1,
+ msr_secured_10 = False,
+ secured_state_ied_relation_int_4_1 = 1,
+ secured_state_ied_relation_int_4_6 = 0,
+ secured_state_ied_relation_int_1_8 = 0,
+ unique_msr_secured_int_4 = 0,
+ msr_secured_6 = True,
+ unique_msr_secured_10 = False,
+ secured_state_rtu_relation_int_2_12 = 0,
+ secured_state_rtu_relation_5_12 = False,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_rtu_relation_int_1_12 = 1,
+ unique_msr_secured_int_5 = 0,
+ unique_msr_secured_2 = True,
+ secured_state_ied_relation_2_7 = False,
+ msr_secured_2 = True,
+ secured_state_ied_relation_5_5 = True,
+ unique_msr_secured_int_3 = 1,
+ secured_state_ied_relation_5_3 = False,
+ secured_state_rtu_relation_int_3_9 = 1,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_2_3 = 0,
+ secured_state_ied_relation_1_8 = False,
+ msr_secured_4 = True,
+ secured_state_ied_relation_1_2 = False,
+ secured_state_rtu_relation_int_3_11 = 1,
+ secured_state_ied_relation_4_1 = True,
+ unique_msr_secured_int_11 = 0,
+ unique_msr_secured_int_8 = 0,
+ secured_state_ied_relation_2_1 = False,
+ secured_state_ied_relation_3_3 = False,
+ secured_state_ied_relation_4_7 = False,
+ msr_secured_11 = True,
+ unique_msr_secured_int_7 = 1,
+ secured_state_ied_relation_int_5_2 = 1,
+ msr_secured_3 = True,
+ secured_state_rtu_relation_int_5_12 = 0,
+ unique_msr_secured_int_6 = 1,
+ secured_state_ied_relation_int_5_6 = 0,
+ secured_state_ied_relation_int_1_2 = 0,
+ secured_state_ied_relation_4_8 = False,
+ unique_msr_secured_int_1 = 1,
+ secured_state_ied_relation_2_6 = False,
+ secured_state_ied_relation_int_2_7 = 0,
+ secured_state_ied_relation_2_3 = False,
+ secured_state_rtu_relation_1_12 = True,
+ secured_state_rtu_relation_5_9 = True,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = False,
+ secured_state_ied_relation_3_6 = False,
+ secured_state_rtu_relation_int_4_9 = 1,
+ secured_state_ied_relation_4_5 = True,
+ unique_msr_secured_3 = True,
+ secured_state_ied_relation_int_5_7 = 0,
+ secured_state_ied_relation_3_1 = True,
+ msr_secured_1 = True,
+ secured_state_rtu_relation_int_1_9 = 1,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = False,
+ msr_secured_7 = True,
+ secured_state_ied_relation_1_7 = True,
+ secured_state_ied_relation_5_8 = False,
+ msr_secured_8 = False,
+ secured_state_rtu_relation_5_11 = True,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_rtu_relation_int_5_11 = 1,
+ secured_state_ied_relation_int_5_5 = 1,
+ msr_secured_14 = False,
+ unique_msr_secured_5 = False,
+ secured_state_rtu_relation_2_11 = True,
+ secured_state_ied_relation_int_2_2 = 1,
+ unique_msr_secured_7 = True,
+ secured_state_rtu_relation_1_9 = True,
+ msr_secured_9 = True,
+ secured_state_ied_relation_int_3_5 = 1,
+ secured_state_ied_relation_int_3_6 = 0,
+ secured_state_rtu_relation_3_9 = True,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_3_3 = 0,
+ secured_state_ied_relation_int_3_1 = 1,
+ secured_state_ied_relation_5_6 = False,
+ secured_state_rtu_relation_2_12 = False,
+ secured_state_ied_relation_int_1_3 = 1,
+ secured_state_ied_relation_int_2_6 = 0,
+ msr_secured_13 = False,
+ unique_msr_secured_int_10 = 0,
+ secured_state_ied_relation_int_1_7 = 1,
+ secured_state_ied_relation_2_2 = True,
+ integrity_protected_8 = True,
+ authenticated_8 = False,
+ integrity_protected_6 = True,
+ authenticated_6 = False,
+ integrity_protected_3 = True,
+ authenticated_3 = True,
+ integrity_protected_7 = True,
+ authenticated_7 = True,
+ integrity_protected_5 = True,
+ authenticated_5 = True,
+ integrity_protected_2 = True,
+ authenticated_2 = True,
+ integrity_protected_1 = True,
+ authenticated_1 = True,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ ...]
+
+Authenticated IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: False
+7: True
+8: False
+
+Integrity protected IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: True
+2: True
+3: True
+4: True
+5: False
+6: True
+7: True
+8: False
+9: True
+10: False
+11: True
+12: False
+13: False
+14: False
+
+Secured unique measurements
+1: True
+2: True
+3: True
+4: False
+5: False
+6: True
+7: True
+8: False
+9: False
+10: False
+11: False
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 0
+1 3: 1
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 1
+1 8: 0
+2 1: 0
+2 2: 1
+2 3: 0
+2 4: 0
+2 5: 1
+2 6: 0
+2 7: 0
+2 8: 0
+3 1: 1
+3 2: 0
+3 3: 0
+3 4: 0
+3 5: 1
+3 6: 0
+3 7: 0
+3 8: 0
+4 1: 1
+4 2: 0
+4 3: 0
+4 4: 0
+4 5: 1
+4 6: 0
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 1
+5 3: 0
+5 4: 0
+5 5: 1
+5 6: 0
+5 7: 0
+5 8: 0
+
+Rtus Corresponding to Secured states
+1 9: 1
+
+1 10: 0
+
+1 11: 0
+
+1 12: 1
+
+2 9: 1
+
+2 10: 0
+
+2 11: 1
+
+2 12: 0
+
+3 9: 1
+
+3 10: 0
+
+3 11: 1
+
+3 12: 0
+
+4 9: 1
+
+4 10: 0
+
+4 11: 1
+
+4 12: 0
+
+5 9: 1
+
+5 10: 0
+
+5 11: 1
+
+5 12: 0
+
+sat
+Model
+[secured_state_ied_relation_2_5 = True,
+ secured_state_ied_relation_2_8 = False,
+ secured_state_ied_relation_5_7 = False,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_rtu_relation_int_2_11 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_rtu_relation_int_2_9 = 1,
+ secured_state_rtu_relation_2_9 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_5_9 = 1,
+ secured_state_ied_relation_4_6 = False,
+ unique_msr_secured_6 = True,
+ unique_msr_secured_8 = False,
+ secured_state_ied_relation_int_5_3 = 0,
+ unique_msr_secured_1 = True,
+ secured_state_rtu_relation_4_9 = True,
+ secured_state_ied_relation_5_2 = True,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_1_3 = True,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_int_4_3 = 0,
+ msr_secured_5 = False,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_3 = False,
+ secured_state_ied_relation_int_2_5 = 1,
+ msr_secured_10 = False,
+ secured_state_ied_relation_int_4_1 = 1,
+ secured_state_ied_relation_int_4_6 = 0,
+ secured_state_ied_relation_int_1_8 = 0,
+ unique_msr_secured_int_4 = 0,
+ msr_secured_6 = True,
+ unique_msr_secured_10 = False,
+ secured_state_rtu_relation_int_2_12 = 0,
+ secured_state_rtu_relation_5_12 = False,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_rtu_relation_int_1_12 = 1,
+ unique_msr_secured_int_5 = 0,
+ unique_msr_secured_2 = True,
+ secured_state_ied_relation_2_7 = False,
+ msr_secured_2 = True,
+ secured_state_ied_relation_5_5 = True,
+ unique_msr_secured_int_3 = 1,
+ secured_state_ied_relation_5_3 = False,
+ secured_state_rtu_relation_int_3_9 = 1,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_2_3 = 0,
+ secured_state_ied_relation_1_8 = False,
+ msr_secured_4 = True,
+ secured_state_ied_relation_1_2 = False,
+ secured_state_rtu_relation_int_3_11 = 1,
+ secured_state_ied_relation_4_1 = True,
+ unique_msr_secured_int_11 = 0,
+ unique_msr_secured_int_8 = 0,
+ secured_state_ied_relation_2_1 = False,
+ secured_state_ied_relation_3_3 = False,
+ secured_state_ied_relation_4_7 = False,
+ msr_secured_11 = True,
+ unique_msr_secured_int_7 = 1,
+ secured_state_ied_relation_int_5_2 = 1,
+ msr_secured_3 = True,
+ secured_state_rtu_relation_int_5_12 = 0,
+ unique_msr_secured_int_6 = 1,
+ secured_state_ied_relation_int_5_6 = 0,
+ secured_state_ied_relation_int_1_2 = 0,
+ secured_state_ied_relation_4_8 = False,
+ unique_msr_secured_int_1 = 1,
+ secured_state_ied_relation_2_6 = False,
+ secured_state_ied_relation_int_2_7 = 0,
+ secured_state_ied_relation_2_3 = False,
+ secured_state_rtu_relation_1_12 = True,
+ secured_state_rtu_relation_5_9 = True,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = False,
+ secured_state_ied_relation_3_6 = False,
+ secured_state_rtu_relation_int_4_9 = 1,
+ secured_state_ied_relation_4_5 = True,
+ unique_msr_secured_3 = True,
+ secured_state_ied_relation_int_5_7 = 0,
+ secured_state_ied_relation_3_1 = True,
+ msr_secured_1 = True,
+ secured_state_rtu_relation_int_1_9 = 1,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = False,
+ msr_secured_7 = True,
+ secured_state_ied_relation_1_7 = True,
+ secured_state_ied_relation_5_8 = False,
+ msr_secured_8 = False,
+ secured_state_rtu_relation_5_11 = True,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_rtu_relation_int_5_11 = 1,
+ secured_state_ied_relation_int_5_5 = 1,
+ msr_secured_14 = False,
+ unique_msr_secured_5 = False,
+ secured_state_rtu_relation_2_11 = True,
+ secured_state_ied_relation_int_2_2 = 1,
+ unique_msr_secured_7 = True,
+ secured_state_rtu_relation_1_9 = True,
+ msr_secured_9 = True,
+ secured_state_ied_relation_int_3_5 = 1,
+ secured_state_ied_relation_int_3_6 = 0,
+ secured_state_rtu_relation_3_9 = True,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_3_3 = 0,
+ secured_state_ied_relation_int_3_1 = 1,
+ secured_state_ied_relation_5_6 = False,
+ secured_state_rtu_relation_2_12 = False,
+ secured_state_ied_relation_int_1_3 = 1,
+ secured_state_ied_relation_int_2_6 = 0,
+ msr_secured_13 = False,
+ unique_msr_secured_int_10 = 0,
+ secured_state_ied_relation_int_1_7 = 1,
+ secured_state_ied_relation_2_2 = True,
+ integrity_protected_8 = True,
+ authenticated_8 = False,
+ integrity_protected_6 = True,
+ authenticated_6 = False,
+ integrity_protected_3 = True,
+ authenticated_3 = True,
+ integrity_protected_7 = True,
+ authenticated_7 = True,
+ integrity_protected_5 = True,
+ authenticated_5 = True,
+ integrity_protected_2 = True,
+ authenticated_2 = True,
+ integrity_protected_1 = True,
+ authenticated_1 = True,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ ...]
+
+Authenticated IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: False
+7: True
+8: False
+
+Integrity protected IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: True
+2: True
+3: True
+4: True
+5: False
+6: True
+7: True
+8: False
+9: True
+10: False
+11: True
+12: False
+13: False
+14: False
+
+Secured unique measurements
+1: True
+2: True
+3: True
+4: False
+5: False
+6: True
+7: True
+8: False
+9: False
+10: False
+11: False
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 0
+1 3: 1
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 1
+1 8: 0
+2 1: 0
+2 2: 1
+2 3: 0
+2 4: 0
+2 5: 1
+2 6: 0
+2 7: 0
+2 8: 0
+3 1: 1
+3 2: 0
+3 3: 0
+3 4: 0
+3 5: 1
+3 6: 0
+3 7: 0
+3 8: 0
+4 1: 1
+4 2: 0
+4 3: 0
+4 4: 0
+4 5: 1
+4 6: 0
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 1
+5 3: 0
+5 4: 0
+5 5: 1
+5 6: 0
+5 7: 0
+5 8: 0
+
+Rtus Corresponding to Secured states
+1 9: 1
+1 10: 0
+1 11: 0
+1 12: 1
+2 9: 1
+2 10: 0
+2 11: 1
+2 12: 0
+3 9: 1
+3 10: 0
+3 11: 1
+3 12: 0
+4 9: 1
+4 10: 0
+4 11: 1
+4 12: 0
+5 9: 1
+5 10: 0
+5 11: 1
+5 12: 0
+
+sat
+Model
+[secured_state_ied_relation_2_5 = True,
+ secured_state_ied_relation_2_8 = False,
+ secured_state_ied_relation_5_7 = True,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_rtu_relation_int_2_11 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_rtu_relation_int_2_9 = 1,
+ secured_state_rtu_relation_2_9 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_5_9 = 1,
+ secured_state_ied_relation_4_6 = True,
+ unique_msr_secured_6 = False,
+ unique_msr_secured_8 = True,
+ secured_state_ied_relation_int_5_3 = 1,
+ unique_msr_secured_1 = False,
+ secured_state_rtu_relation_4_9 = True,
+ secured_state_ied_relation_5_2 = False,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_1_3 = True,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_int_4_3 = 0,
+ secured_state_ied_relation_int_4_5 = 0,
+ secured_state_ied_relation_4_3 = False,
+ secured_state_ied_relation_int_2_5 = 1,
+ secured_state_ied_relation_int_4_1 = 1,
+ secured_state_ied_relation_int_4_6 = 1,
+ secured_state_ied_relation_int_1_8 = 0,
+ unique_msr_secured_int_4 = 0,
+ unique_msr_secured_10 = True,
+ secured_state_rtu_relation_int_2_12 = 0,
+ secured_state_rtu_relation_5_12 = False,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_rtu_relation_int_1_12 = 1,
+ unique_msr_secured_int_5 = 1,
+ unique_msr_secured_2 = True,
+ secured_state_ied_relation_2_7 = True,
+ unique_msr_secured_int_3 = 1,
+ secured_state_ied_relation_5_5 = True,
+ secured_state_ied_relation_5_3 = True,
+ secured_state_rtu_relation_int_3_9 = 1,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_2_3 = 1,
+ secured_state_ied_relation_1_8 = False,
+ secured_state_ied_relation_1_2 = False,
+ secured_state_rtu_relation_int_3_11 = 1,
+ secured_state_ied_relation_4_1 = True,
+ unique_msr_secured_int_11 = 0,
+ unique_msr_secured_int_8 = 1,
+ secured_state_ied_relation_2_1 = True,
+ secured_state_ied_relation_3_3 = False,
+ unique_msr_secured_int_7 = 0,
+ secured_state_ied_relation_4_7 = False,
+ secured_state_ied_relation_int_5_2 = 0,
+ secured_state_rtu_relation_int_5_12 = 0,
+ unique_msr_secured_int_6 = 0,
+ secured_state_ied_relation_int_5_6 = 0,
+ secured_state_ied_relation_int_1_2 = 0,
+ secured_state_ied_relation_4_8 = False,
+ unique_msr_secured_int_1 = 0,
+ secured_state_ied_relation_2_6 = False,
+ secured_state_ied_relation_int_2_7 = 1,
+ secured_state_ied_relation_2_3 = True,
+ secured_state_rtu_relation_1_12 = True,
+ secured_state_rtu_relation_5_9 = True,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = False,
+ secured_state_ied_relation_3_6 = False,
+ secured_state_rtu_relation_int_4_9 = 1,
+ secured_state_ied_relation_4_5 = False,
+ unique_msr_secured_3 = True,
+ secured_state_ied_relation_int_5_7 = 1,
+ secured_state_ied_relation_3_1 = True,
+ secured_state_rtu_relation_int_1_9 = 1,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = False,
+ secured_state_ied_relation_1_7 = True,
+ secured_state_rtu_relation_5_11 = True,
+ secured_state_ied_relation_5_8 = False,
+ secured_state_rtu_relation_int_5_11 = 1,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_ied_relation_int_5_5 = 1,
+ unique_msr_secured_5 = True,
+ secured_state_rtu_relation_2_11 = True,
+ secured_state_ied_relation_int_2_2 = 1,
+ secured_state_rtu_relation_1_9 = True,
+ unique_msr_secured_7 = False,
+ secured_state_ied_relation_int_3_5 = 1,
+ secured_state_ied_relation_int_3_6 = 0,
+ secured_state_rtu_relation_3_9 = True,
+ secured_state_ied_relation_int_2_1 = 1,
+ secured_state_ied_relation_int_3_3 = 0,
+ secured_state_ied_relation_int_3_1 = 1,
+ secured_state_ied_relation_5_6 = False,
+ secured_state_rtu_relation_2_12 = False,
+ secured_state_ied_relation_int_1_3 = 1,
+ secured_state_ied_relation_int_2_6 = 0,
+ unique_msr_secured_int_10 = 1,
+ secured_state_ied_relation_int_1_7 = 1,
+ secured_state_ied_relation_2_2 = True,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ secured_state_rtu_relation_int_3_12 = 0,
+ secured_state_rtu_relation_int_3_10 = 0,
+ secured_state_rtu_relation_int_2_10 = 0,
+ secured_state_rtu_relation_int_1_11 = 0,
+ secured_state_rtu_relation_int_1_10 = 0,
+ secured_state_ied_relation_int_5_4 = 0,
+ secured_state_ied_relation_int_5_1 = 0,
+ secured_state_ied_relation_int_4_4 = 0,
+ secured_state_ied_relation_int_4_2 = 0,
+ secured_state_ied_relation_int_3_8 = 0,
+ secured_state_ied_relation_int_3_7 = 0,
+ secured_state_ied_relation_int_3_4 = 0,
+ secured_state_ied_relation_int_3_2 = 0,
+ secured_state_ied_relation_int_2_4 = 0,
+ secured_state_ied_relation_int_1_6 = 0,
+ secured_state_ied_relation_int_1_5 = 0,
+ secured_state_ied_relation_int_1_4 = 0,
+ secured_state_ied_relation_int_1_1 = 0,
+ state_secured_5 = True,
+ state_secured_4 = True,
+ state_secured_3 = True,
+ state_secured_2 = True,
+ state_secured_1 = True,
+ unique_msr_secured_int_9 = 0,
+ secured_state_rtu_relation_5_10 = False,
+ secured_state_rtu_relation_4_10 = False,
+ secured_state_rtu_relation_3_12 = False,
+ ...]
+
+Authenticated IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Integrity protected IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+14: True
+
+Secured unique measurements
+1: False
+2: True
+3: True
+4: False
+5: True
+6: False
+7: False
+8: True
+9: False
+10: True
+11: False
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 0
+1 3: 1
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 1
+1 8: 0
+2 1: 1
+2 2: 1
+2 3: 1
+2 4: 0
+2 5: 1
+2 6: 0
+2 7: 1
+2 8: 0
+3 1: 1
+3 2: 0
+3 3: 0
+3 4: 0
+3 5: 1
+3 6: 0
+3 7: 0
+3 8: 0
+4 1: 1
+4 2: 0
+4 3: 0
+4 4: 0
+4 5: 0
+4 6: 1
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 0
+5 3: 1
+5 4: 0
+5 5: 1
+5 6: 0
+5 7: 1
+5 8: 0
+
+Rtus Corresponding to Secured states
+1 9: 1
+1 10: 0
+1 11: 0
+1 12: 1
+2 9: 1
+2 10: 0
+2 11: 1
+2 12: 0
+3 9: 1
+3 10: 0
+3 11: 1
+3 12: 0
+4 9: 1
+4 10: 0
+4 11: 1
+4 12: 0
+5 9: 1
+5 10: 0
+5 11: 1
+5 12: 0
+
+sat
+Model
+[unique_msr_secured_int_11 = 0,
+ secured_state_ied_relation_2_5 = False,
+ secured_state_ied_relation_2_8 = False,
+ secured_state_ied_relation_5_7 = False,
+ secured_state_ied_relation_int_1_7 = 0,
+ secured_state_ied_relation_3_3 = True,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_ied_relation_4_7 = False,
+ unique_msr_secured_int_7 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_ied_relation_int_5_2 = 1,
+ secured_state_rtu_relation_int_2_9 = 1,
+ secured_state_rtu_relation_2_9 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_2_11 = 0,
+ secured_state_rtu_relation_int_5_9 = 1,
+ secured_state_rtu_relation_int_5_12 = 0,
+ unique_msr_secured_int_6 = 1,
+ secured_state_ied_relation_int_5_6 = 1,
+ secured_state_ied_relation_4_6 = False,
+ secured_state_ied_relation_int_1_2 = 1,
+ unique_msr_secured_6 = True,
+ secured_state_ied_relation_4_8 = False,
+ unique_msr_secured_8 = False,
+ secured_state_ied_relation_int_5_3 = 0,
+ secured_state_ied_relation_2_6 = False,
+ secured_state_ied_relation_int_2_7 = 1,
+ secured_state_ied_relation_2_3 = True,
+ secured_state_rtu_relation_4_9 = True,
+ secured_state_rtu_relation_1_12 = True,
+ secured_state_ied_relation_5_2 = True,
+ secured_state_rtu_relation_5_9 = True,
+ secured_state_ied_relation_1_3 = False,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = False,
+ secured_state_ied_relation_3_6 = False,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_int_4_3 = 1,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_3 = True,
+ secured_state_ied_relation_4_5 = True,
+ secured_state_ied_relation_int_2_5 = 0,
+ secured_state_rtu_relation_int_4_9 = 1,
+ unique_msr_secured_3 = True,
+ secured_state_ied_relation_int_5_7 = 0,
+ secured_state_ied_relation_int_4_6 = 0,
+ secured_state_ied_relation_int_1_8 = 1,
+ unique_msr_secured_int_4 = 0,
+ unique_msr_secured_10 = False,
+ secured_state_rtu_relation_int_1_9 = 1,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = False,
+ secured_state_rtu_relation_int_2_12 = 1,
+ secured_state_ied_relation_1_7 = False,
+ secured_state_rtu_relation_5_11 = True,
+ secured_state_ied_relation_5_8 = False,
+ secured_state_rtu_relation_5_12 = False,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_rtu_relation_int_1_12 = 1,
+ secured_state_ied_relation_int_5_5 = 0,
+ unique_msr_secured_5 = True,
+ secured_state_ied_relation_2_7 = True,
+ secured_state_rtu_relation_2_11 = False,
+ unique_msr_secured_2 = True,
+ secured_state_rtu_relation_1_9 = True,
+ unique_msr_secured_7 = True,
+ unique_msr_secured_int_5 = 1,
+ secured_state_ied_relation_int_2_2 = 0,
+ unique_msr_secured_int_3 = 1,
+ secured_state_rtu_relation_3_9 = True,
+ secured_state_ied_relation_5_5 = False,
+ secured_state_ied_relation_int_3_5 = 1,
+ secured_state_ied_relation_int_3_6 = 0,
+ secured_state_rtu_relation_int_5_11 = 1,
+ secured_state_ied_relation_5_3 = False,
+ secured_state_ied_relation_int_3_3 = 1,
+ secured_state_rtu_relation_int_3_9 = 1,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_ied_relation_5_6 = True,
+ secured_state_rtu_relation_2_12 = True,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_1_3 = 0,
+ secured_state_ied_relation_1_8 = True,
+ unique_msr_secured_int_10 = 0,
+ secured_state_ied_relation_int_2_3 = 1,
+ secured_state_ied_relation_1_2 = True,
+ secured_state_ied_relation_int_2_6 = 0,
+ secured_state_rtu_relation_int_3_11 = 1,
+ secured_state_ied_relation_2_2 = False,
+ unique_msr_secured_int_8 = 0,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ secured_state_rtu_relation_int_3_12 = 0,
+ secured_state_rtu_relation_int_3_10 = 0,
+ secured_state_rtu_relation_int_2_10 = 0,
+ secured_state_rtu_relation_int_1_11 = 0,
+ secured_state_rtu_relation_int_1_10 = 0,
+ secured_state_ied_relation_int_5_4 = 0,
+ secured_state_ied_relation_int_5_1 = 0,
+ secured_state_ied_relation_int_4_4 = 0,
+ secured_state_ied_relation_int_4_2 = 0,
+ secured_state_ied_relation_int_4_1 = 0,
+ secured_state_ied_relation_int_3_8 = 0,
+ secured_state_ied_relation_int_3_7 = 0,
+ secured_state_ied_relation_int_3_4 = 0,
+ secured_state_ied_relation_int_3_2 = 0,
+ secured_state_ied_relation_int_3_1 = 0,
+ secured_state_ied_relation_int_2_4 = 0,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_1_6 = 0,
+ secured_state_ied_relation_int_1_5 = 0,
+ secured_state_ied_relation_int_1_4 = 0,
+ secured_state_ied_relation_int_1_1 = 0,
+ state_secured_5 = True,
+ state_secured_4 = True,
+ state_secured_3 = True,
+ state_secured_2 = True,
+ state_secured_1 = True,
+ unique_msr_secured_int_9 = 0,
+ unique_msr_secured_int_1 = 0,
+ secured_state_rtu_relation_5_10 = False,
+ secured_state_rtu_relation_4_10 = False,
+ secured_state_rtu_relation_3_12 = False,
+ secured_state_rtu_relation_3_10 = False,
+ secured_state_rtu_relation_2_10 = False,
+ secured_state_rtu_relation_1_11 = False,
+ secured_state_rtu_relation_1_10 = False,
+ ...]
+
+Authenticated IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Integrity protected IEDs
+1: False
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: False
+2: False
+3: True
+4: True
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+14: True
+
+Secured unique measurements
+1: False
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: False
+9: False
+10: False
+11: False
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 1
+1 3: 0
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 0
+1 8: 1
+2 1: 0
+2 2: 0
+2 3: 1
+2 4: 0
+2 5: 0
+2 6: 0
+2 7: 1
+2 8: 0
+3 1: 0
+3 2: 0
+3 3: 1
+3 4: 0
+3 5: 1
+3 6: 0
+3 7: 0
+3 8: 0
+4 1: 0
+4 2: 0
+4 3: 1
+4 4: 0
+4 5: 1
+4 6: 0
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 1
+5 3: 0
+5 4: 0
+5 5: 0
+5 6: 1
+5 7: 0
+5 8: 0
+
+Rtus Corresponding to Secured states
+1 9: 1
+1 10: 0
+1 11: 0
+1 12: 1
+2 9: 1
+2 10: 0
+2 11: 0
+2 12: 1
+3 9: 1
+3 10: 0
+3 11: 1
+3 12: 0
+4 9: 1
+4 10: 0
+4 11: 1
+4 12: 0
+5 9: 1
+5 10: 0
+5 11: 1
+5 12: 0
+
+sat
+Model
+[secured_state_ied_relation_int_1_7 = 0,
+ secured_state_ied_relation_2_5 = True,
+ secured_state_ied_relation_2_8 = True,
+ secured_state_ied_relation_5_7 = False,
+ secured_state_ied_relation_3_3 = True,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_ied_relation_4_7 = False,
+ unique_msr_secured_int_7 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_rtu_relation_int_2_11 = 1,
+ secured_state_rtu_relation_int_2_9 = 1,
+ secured_state_rtu_relation_2_9 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_5_9 = 1,
+ secured_state_rtu_relation_int_5_12 = 0,
+ unique_msr_secured_int_6 = 0,
+ secured_state_ied_relation_int_5_6 = 1,
+ secured_state_ied_relation_4_6 = False,
+ unique_msr_secured_6 = False,
+ secured_state_ied_relation_4_8 = False,
+ unique_msr_secured_8 = True,
+ secured_state_ied_relation_int_5_3 = 1,
+ secured_state_ied_relation_2_6 = False,
+ secured_state_ied_relation_int_2_7 = 0,
+ secured_state_ied_relation_2_3 = True,
+ secured_state_rtu_relation_4_9 = True,
+ secured_state_rtu_relation_1_12 = True,
+ secured_state_rtu_relation_5_9 = True,
+ secured_state_ied_relation_1_3 = True,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = True,
+ secured_state_ied_relation_3_6 = False,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_int_2_8 = 1,
+ secured_state_ied_relation_int_4_3 = 1,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_3 = True,
+ secured_state_ied_relation_4_5 = True,
+ secured_state_ied_relation_int_2_5 = 1,
+ secured_state_rtu_relation_int_4_9 = 1,
+ unique_msr_secured_3 = True,
+ secured_state_ied_relation_int_5_7 = 0,
+ secured_state_ied_relation_int_4_6 = 0,
+ secured_state_ied_relation_int_1_8 = 1,
+ unique_msr_secured_int_4 = 1,
+ unique_msr_secured_10 = False,
+ secured_state_rtu_relation_int_1_9 = 1,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = False,
+ secured_state_rtu_relation_int_2_12 = 0,
+ secured_state_ied_relation_1_7 = False,
+ secured_state_rtu_relation_5_11 = True,
+ secured_state_ied_relation_5_8 = False,
+ secured_state_rtu_relation_5_12 = False,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_rtu_relation_int_1_12 = 1,
+ secured_state_ied_relation_int_5_5 = 0,
+ secured_state_rtu_relation_int_5_11 = 1,
+ secured_state_ied_relation_2_7 = False,
+ secured_state_rtu_relation_2_11 = True,
+ unique_msr_secured_2 = True,
+ secured_state_rtu_relation_1_9 = True,
+ unique_msr_secured_7 = True,
+ secured_state_ied_relation_int_3_5 = 1,
+ secured_state_ied_relation_int_3_6 = 0,
+ unique_msr_secured_int_3 = 1,
+ secured_state_rtu_relation_3_9 = True,
+ secured_state_ied_relation_5_5 = False,
+ secured_state_ied_relation_5_3 = True,
+ secured_state_ied_relation_int_3_3 = 1,
+ secured_state_rtu_relation_int_3_9 = 1,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_ied_relation_5_6 = True,
+ secured_state_rtu_relation_2_12 = False,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_1_3 = 1,
+ secured_state_ied_relation_1_8 = True,
+ unique_msr_secured_int_10 = 0,
+ secured_state_ied_relation_int_2_3 = 1,
+ secured_state_ied_relation_int_2_6 = 0,
+ secured_state_rtu_relation_int_3_11 = 1,
+ unique_msr_secured_int_11 = 0,
+ unique_msr_secured_int_8 = 1,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ secured_state_rtu_relation_int_3_12 = 0,
+ secured_state_rtu_relation_int_3_10 = 0,
+ secured_state_rtu_relation_int_2_10 = 0,
+ secured_state_rtu_relation_int_1_11 = 0,
+ secured_state_rtu_relation_int_1_10 = 0,
+ secured_state_ied_relation_int_5_4 = 0,
+ secured_state_ied_relation_int_5_2 = 0,
+ secured_state_ied_relation_int_5_1 = 0,
+ secured_state_ied_relation_int_4_4 = 0,
+ secured_state_ied_relation_int_4_2 = 0,
+ secured_state_ied_relation_int_4_1 = 0,
+ secured_state_ied_relation_int_3_8 = 0,
+ secured_state_ied_relation_int_3_7 = 0,
+ secured_state_ied_relation_int_3_4 = 0,
+ secured_state_ied_relation_int_3_2 = 0,
+ secured_state_ied_relation_int_3_1 = 0,
+ secured_state_ied_relation_int_2_4 = 0,
+ secured_state_ied_relation_int_2_2 = 0,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_1_6 = 0,
+ secured_state_ied_relation_int_1_5 = 0,
+ secured_state_ied_relation_int_1_4 = 0,
+ secured_state_ied_relation_int_1_2 = 0,
+ secured_state_ied_relation_int_1_1 = 0,
+ state_secured_5 = True,
+ state_secured_4 = True,
+ state_secured_3 = True,
+ state_secured_2 = True,
+ state_secured_1 = True,
+ unique_msr_secured_int_9 = 0,
+ unique_msr_secured_int_5 = 0,
+ unique_msr_secured_int_1 = 0,
+ secured_state_rtu_relation_5_10 = False,
+ secured_state_rtu_relation_4_10 = False,
+ secured_state_rtu_relation_3_12 = False,
+ secured_state_rtu_relation_3_10 = False,
+ secured_state_rtu_relation_2_10 = False,
+ secured_state_rtu_relation_1_11 = False,
+ secured_state_rtu_relation_1_10 = False,
+ secured_state_ied_relation_5_4 = False,
+ secured_state_ied_relation_5_2 = False,
+ secured_state_ied_relation_5_1 = False,
+ secured_state_ied_relation_4_4 = False,
+ ...]
+
+Authenticated IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Integrity protected IEDs
+1: False
+2: False
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: True
+7: True
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+14: True
+
+Secured unique measurements
+1: False
+2: True
+3: True
+4: True
+5: False
+6: False
+7: True
+8: True
+9: False
+10: False
+11: False
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 0
+1 3: 1
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 0
+1 8: 1
+2 1: 0
+2 2: 0
+2 3: 1
+2 4: 0
+2 5: 1
+2 6: 0
+2 7: 0
+2 8: 1
+3 1: 0
+3 2: 0
+3 3: 1
+3 4: 0
+3 5: 1
+3 6: 0
+3 7: 0
+3 8: 0
+4 1: 0
+4 2: 0
+4 3: 1
+4 4: 0
+4 5: 1
+4 6: 0
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 0
+5 3: 1
+5 4: 0
+5 5: 0
+5 6: 1
+5 7: 0
+5 8: 0
+
+Rtus Corresponding to Secured states
+1 9: 1
+1 10: 0
+1 11: 0
+1 12: 1
+2 9: 1
+2 10: 0
+2 11: 1
+2 12: 0
+3 9: 1
+3 10: 0
+3 11: 1
+3 12: 0
+4 9: 1
+4 10: 0
+4 11: 1
+4 12: 0
+5 9: 1
+5 10: 0
+5 11: 1
+5 12: 0
+
+unsat
+unsat
+sat
+Model
+[secured_state_ied_relation_2_5 = True,
+ secured_state_ied_relation_2_8 = True,
+ secured_state_ied_relation_5_7 = False,
+ unique_msr_secured_int_7 = 1,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_ied_relation_4_7 = False,
+ secured_state_rtu_relation_int_2_11 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_5_12 = 0,
+ unique_msr_secured_int_6 = 1,
+ secured_state_ied_relation_int_5_6 = 1,
+ secured_state_ied_relation_4_6 = True,
+ unique_msr_secured_6 = True,
+ secured_state_ied_relation_4_8 = False,
+ secured_state_ied_relation_2_6 = False,
+ secured_state_ied_relation_int_2_7 = 0,
+ secured_state_rtu_relation_1_12 = True,
+ secured_state_ied_relation_int_2_8 = 1,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = True,
+ secured_state_ied_relation_3_6 = True,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_5 = True,
+ secured_state_ied_relation_int_2_5 = 1,
+ unique_msr_secured_3 = False,
+ secured_state_ied_relation_int_5_7 = 0,
+ secured_state_ied_relation_int_4_6 = 1,
+ secured_state_ied_relation_int_1_8 = 1,
+ unique_msr_secured_int_4 = 1,
+ unique_msr_secured_10 = False,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = True,
+ secured_state_rtu_relation_int_2_12 = 0,
+ secured_state_ied_relation_1_7 = True,
+ secured_state_rtu_relation_5_11 = True,
+ secured_state_ied_relation_5_8 = False,
+ secured_state_rtu_relation_5_12 = False,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_rtu_relation_int_1_12 = 1,
+ secured_state_ied_relation_int_5_5 = 1,
+ secured_state_rtu_relation_int_5_11 = 1,
+ secured_state_ied_relation_2_7 = False,
+ secured_state_rtu_relation_2_11 = True,
+ unique_msr_secured_2 = True,
+ unique_msr_secured_7 = True,
+ secured_state_ied_relation_int_3_5 = 1,
+ secured_state_ied_relation_int_3_6 = 1,
+ unique_msr_secured_int_3 = 0,
+ secured_state_ied_relation_5_5 = True,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_ied_relation_5_6 = True,
+ secured_state_rtu_relation_2_12 = False,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_2_6 = 0,
+ secured_state_ied_relation_1_8 = True,
+ unique_msr_secured_int_10 = 0,
+ secured_state_rtu_relation_int_3_11 = 1,
+ unique_msr_secured_int_11 = 1,
+ secured_state_ied_relation_int_1_7 = 1,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_5_9 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ secured_state_rtu_relation_int_4_9 = 0,
+ secured_state_rtu_relation_int_3_12 = 0,
+ secured_state_rtu_relation_int_3_10 = 0,
+ secured_state_rtu_relation_int_3_9 = 0,
+ secured_state_rtu_relation_int_2_10 = 0,
+ secured_state_rtu_relation_int_2_9 = 0,
+ secured_state_rtu_relation_int_1_11 = 0,
+ secured_state_rtu_relation_int_1_10 = 0,
+ secured_state_rtu_relation_int_1_9 = 0,
+ secured_state_ied_relation_int_5_4 = 0,
+ secured_state_ied_relation_int_5_3 = 0,
+ secured_state_ied_relation_int_5_2 = 0,
+ secured_state_ied_relation_int_5_1 = 0,
+ secured_state_ied_relation_int_4_4 = 0,
+ secured_state_ied_relation_int_4_3 = 0,
+ secured_state_ied_relation_int_4_2 = 0,
+ secured_state_ied_relation_int_4_1 = 0,
+ secured_state_ied_relation_int_3_8 = 0,
+ secured_state_ied_relation_int_3_7 = 0,
+ secured_state_ied_relation_int_3_4 = 0,
+ secured_state_ied_relation_int_3_3 = 0,
+ secured_state_ied_relation_int_3_2 = 0,
+ secured_state_ied_relation_int_3_1 = 0,
+ secured_state_ied_relation_int_2_4 = 0,
+ secured_state_ied_relation_int_2_3 = 0,
+ secured_state_ied_relation_int_2_2 = 0,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_1_6 = 0,
+ secured_state_ied_relation_int_1_5 = 0,
+ secured_state_ied_relation_int_1_4 = 0,
+ secured_state_ied_relation_int_1_3 = 0,
+ secured_state_ied_relation_int_1_2 = 0,
+ secured_state_ied_relation_int_1_1 = 0,
+ state_secured_5 = True,
+ state_secured_4 = True,
+ state_secured_3 = True,
+ state_secured_2 = True,
+ state_secured_1 = True,
+ unique_msr_secured_int_9 = 0,
+ unique_msr_secured_int_8 = 0,
+ unique_msr_secured_int_5 = 0,
+ unique_msr_secured_int_1 = 0,
+ secured_state_rtu_relation_5_10 = False,
+ secured_state_rtu_relation_5_9 = False,
+ secured_state_rtu_relation_4_10 = False,
+ secured_state_rtu_relation_4_9 = False,
+ secured_state_rtu_relation_3_12 = False,
+ secured_state_rtu_relation_3_10 = False,
+ secured_state_rtu_relation_3_9 = False,
+ secured_state_rtu_relation_2_10 = False,
+ secured_state_rtu_relation_2_9 = False,
+ secured_state_rtu_relation_1_11 = False,
+ secured_state_rtu_relation_1_10 = False,
+ secured_state_rtu_relation_1_9 = False,
+ secured_state_ied_relation_5_4 = False,
+ secured_state_ied_relation_5_3 = False,
+ secured_state_ied_relation_5_2 = False,
+ secured_state_ied_relation_5_1 = False,
+ secured_state_ied_relation_4_4 = False,
+ secured_state_ied_relation_4_3 = False,
+ secured_state_ied_relation_4_2 = False,
+ secured_state_ied_relation_4_1 = False,
+ secured_state_ied_relation_3_8 = False,
+ secured_state_ied_relation_3_7 = False,
+ ...]
+
+Authenticated IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Integrity protected IEDs
+1: False
+2: False
+3: False
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: True
+7: True
+8: True
+9: True
+10: True
+11: False
+12: False
+13: True
+14: True
+
+Secured unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: True
+7: True
+8: False
+9: False
+10: False
+11: True
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 0
+1 3: 0
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 1
+1 8: 1
+2 1: 0
+2 2: 0
+2 3: 0
+2 4: 0
+2 5: 1
+2 6: 0
+2 7: 0
+2 8: 1
+3 1: 0
+3 2: 0
+3 3: 0
+3 4: 0
+3 5: 1
+3 6: 1
+3 7: 0
+3 8: 0
+4 1: 0
+4 2: 0
+4 3: 0
+4 4: 0
+4 5: 1
+4 6: 1
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 0
+5 3: 0
+5 4: 0
+5 5: 1
+5 6: 1
+5 7: 0
+5 8: 0
+
+Rtus Corresponding to Secured states
+1 9: 0
+1 10: 0
+1 11: 0
+1 12: 1
+2 9: 0
+2 10: 0
+2 11: 1
+2 12: 0
+3 9: 0
+3 10: 0
+3 11: 1
+3 12: 0
+4 9: 0
+4 10: 0
+4 11: 1
+4 12: 0
+5 9: 0
+5 10: 0
+5 11: 1
+5 12: 0
+
+sat
+Model
+[unique_msr_secured_int_11 = 0,
+ secured_state_ied_relation_2_5 = False,
+ secured_state_ied_relation_2_8 = False,
+ secured_state_ied_relation_5_7 = False,
+ secured_state_ied_relation_int_1_7 = 0,
+ secured_state_ied_relation_3_3 = True,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_ied_relation_4_7 = False,
+ unique_msr_secured_int_7 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_ied_relation_int_5_2 = 1,
+ secured_state_rtu_relation_int_2_9 = 1,
+ secured_state_rtu_relation_2_9 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_2_11 = 0,
+ secured_state_rtu_relation_int_5_9 = 1,
+ secured_state_rtu_relation_int_5_12 = 0,
+ unique_msr_secured_int_6 = 1,
+ secured_state_ied_relation_int_5_6 = 1,
+ secured_state_ied_relation_4_6 = False,
+ secured_state_ied_relation_int_1_2 = 1,
+ unique_msr_secured_6 = True,
+ secured_state_ied_relation_4_8 = False,
+ unique_msr_secured_8 = False,
+ secured_state_ied_relation_int_5_3 = 0,
+ secured_state_ied_relation_2_6 = False,
+ secured_state_ied_relation_int_2_7 = 1,
+ secured_state_ied_relation_2_3 = True,
+ secured_state_rtu_relation_4_9 = True,
+ secured_state_rtu_relation_1_12 = True,
+ secured_state_ied_relation_5_2 = True,
+ secured_state_rtu_relation_5_9 = True,
+ secured_state_ied_relation_1_3 = False,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = False,
+ secured_state_ied_relation_3_6 = False,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_int_4_3 = 1,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_3 = True,
+ secured_state_ied_relation_4_5 = True,
+ secured_state_ied_relation_int_2_5 = 0,
+ secured_state_rtu_relation_int_4_9 = 1,
+ unique_msr_secured_3 = True,
+ secured_state_ied_relation_int_5_7 = 0,
+ secured_state_ied_relation_int_4_6 = 0,
+ secured_state_ied_relation_int_1_8 = 1,
+ unique_msr_secured_int_4 = 0,
+ unique_msr_secured_10 = False,
+ secured_state_rtu_relation_int_1_9 = 1,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = False,
+ secured_state_rtu_relation_int_2_12 = 1,
+ secured_state_ied_relation_1_7 = False,
+ secured_state_rtu_relation_5_11 = True,
+ secured_state_ied_relation_5_8 = False,
+ secured_state_rtu_relation_5_12 = False,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_rtu_relation_int_1_12 = 1,
+ secured_state_ied_relation_int_5_5 = 0,
+ unique_msr_secured_5 = True,
+ secured_state_ied_relation_2_7 = True,
+ secured_state_rtu_relation_2_11 = False,
+ unique_msr_secured_2 = True,
+ secured_state_rtu_relation_1_9 = True,
+ unique_msr_secured_7 = True,
+ unique_msr_secured_int_5 = 1,
+ secured_state_ied_relation_int_2_2 = 0,
+ unique_msr_secured_int_3 = 1,
+ secured_state_rtu_relation_3_9 = True,
+ secured_state_ied_relation_5_5 = False,
+ secured_state_ied_relation_int_3_5 = 1,
+ secured_state_ied_relation_int_3_6 = 0,
+ secured_state_rtu_relation_int_5_11 = 1,
+ secured_state_ied_relation_5_3 = False,
+ secured_state_ied_relation_int_3_3 = 1,
+ secured_state_rtu_relation_int_3_9 = 1,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_ied_relation_5_6 = True,
+ secured_state_rtu_relation_2_12 = True,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_1_3 = 0,
+ secured_state_ied_relation_1_8 = True,
+ unique_msr_secured_int_10 = 0,
+ secured_state_ied_relation_int_2_3 = 1,
+ secured_state_ied_relation_1_2 = True,
+ secured_state_ied_relation_int_2_6 = 0,
+ secured_state_rtu_relation_int_3_11 = 1,
+ secured_state_ied_relation_2_2 = False,
+ unique_msr_secured_int_8 = 0,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ secured_state_rtu_relation_int_3_12 = 0,
+ secured_state_rtu_relation_int_3_10 = 0,
+ secured_state_rtu_relation_int_2_10 = 0,
+ secured_state_rtu_relation_int_1_11 = 0,
+ secured_state_rtu_relation_int_1_10 = 0,
+ secured_state_ied_relation_int_5_4 = 0,
+ secured_state_ied_relation_int_5_1 = 0,
+ secured_state_ied_relation_int_4_4 = 0,
+ secured_state_ied_relation_int_4_2 = 0,
+ secured_state_ied_relation_int_4_1 = 0,
+ secured_state_ied_relation_int_3_8 = 0,
+ secured_state_ied_relation_int_3_7 = 0,
+ secured_state_ied_relation_int_3_4 = 0,
+ secured_state_ied_relation_int_3_2 = 0,
+ secured_state_ied_relation_int_3_1 = 0,
+ secured_state_ied_relation_int_2_4 = 0,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_1_6 = 0,
+ secured_state_ied_relation_int_1_5 = 0,
+ secured_state_ied_relation_int_1_4 = 0,
+ secured_state_ied_relation_int_1_1 = 0,
+ state_secured_5 = True,
+ state_secured_4 = True,
+ state_secured_3 = True,
+ state_secured_2 = True,
+ state_secured_1 = True,
+ unique_msr_secured_int_9 = 0,
+ unique_msr_secured_int_1 = 0,
+ secured_state_rtu_relation_5_10 = False,
+ secured_state_rtu_relation_4_10 = False,
+ secured_state_rtu_relation_3_12 = False,
+ secured_state_rtu_relation_3_10 = False,
+ secured_state_rtu_relation_2_10 = False,
+ secured_state_rtu_relation_1_11 = False,
+ secured_state_rtu_relation_1_10 = False,
+ ...]
+
+Authenticated IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Integrity protected IEDs
+1: False
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: False
+2: False
+3: True
+4: True
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+14: True
+
+Secured unique measurements
+1: False
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: False
+9: False
+10: False
+11: False
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 1
+1 3: 0
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 0
+1 8: 1
+2 1: 0
+2 2: 0
+2 3: 1
+2 4: 0
+2 5: 0
+2 6: 0
+2 7: 1
+2 8: 0
+3 1: 0
+3 2: 0
+3 3: 1
+3 4: 0
+3 5: 1
+3 6: 0
+3 7: 0
+3 8: 0
+4 1: 0
+4 2: 0
+4 3: 1
+4 4: 0
+4 5: 1
+4 6: 0
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 1
+5 3: 0
+5 4: 0
+5 5: 0
+5 6: 1
+5 7: 0
+5 8: 0
+
+Rtus Corresponding to Secured states
+1 9: 1
+1 10: 0
+1 11: 0
+1 12: 1
+2 9: 1
+2 10: 0
+2 11: 0
+2 12: 1
+3 9: 1
+3 10: 0
+3 11: 1
+3 12: 0
+4 9: 1
+4 10: 0
+4 11: 1
+4 12: 0
+5 9: 1
+5 10: 0
+5 11: 1
+5 12: 0
+
+sat
+Model
+[unique_msr_secured_int_11 = 0,
+ secured_state_ied_relation_2_5 = False,
+ secured_state_ied_relation_2_8 = False,
+ secured_state_ied_relation_5_7 = False,
+ secured_state_ied_relation_int_1_7 = 0,
+ secured_state_ied_relation_3_3 = True,
+ secured_state_rtu_relation_3_11 = True,
+ secured_state_ied_relation_4_7 = False,
+ unique_msr_secured_int_7 = 1,
+ secured_state_rtu_relation_4_11 = True,
+ secured_state_ied_relation_int_5_2 = 1,
+ secured_state_rtu_relation_int_2_9 = 1,
+ secured_state_rtu_relation_2_9 = True,
+ secured_state_rtu_relation_4_12 = False,
+ secured_state_rtu_relation_int_2_11 = 0,
+ secured_state_rtu_relation_int_5_9 = 1,
+ secured_state_rtu_relation_int_5_12 = 0,
+ unique_msr_secured_int_6 = 1,
+ secured_state_ied_relation_int_5_6 = 1,
+ secured_state_ied_relation_4_6 = False,
+ secured_state_ied_relation_int_1_2 = 1,
+ unique_msr_secured_6 = True,
+ secured_state_ied_relation_4_8 = False,
+ unique_msr_secured_8 = False,
+ secured_state_ied_relation_int_5_3 = 0,
+ secured_state_ied_relation_2_6 = False,
+ secured_state_ied_relation_int_2_7 = 1,
+ secured_state_ied_relation_2_3 = True,
+ secured_state_rtu_relation_4_9 = True,
+ secured_state_rtu_relation_1_12 = True,
+ secured_state_ied_relation_5_2 = True,
+ secured_state_rtu_relation_5_9 = True,
+ secured_state_ied_relation_1_3 = False,
+ secured_state_ied_relation_3_5 = True,
+ unique_msr_secured_4 = False,
+ secured_state_ied_relation_3_6 = False,
+ unique_msr_secured_int_2 = 1,
+ secured_state_ied_relation_int_2_8 = 0,
+ secured_state_ied_relation_int_4_3 = 1,
+ secured_state_ied_relation_int_4_5 = 1,
+ secured_state_ied_relation_4_3 = True,
+ secured_state_ied_relation_4_5 = True,
+ secured_state_ied_relation_int_2_5 = 0,
+ secured_state_rtu_relation_int_4_9 = 1,
+ unique_msr_secured_3 = True,
+ secured_state_ied_relation_int_5_7 = 0,
+ secured_state_ied_relation_int_4_6 = 0,
+ secured_state_ied_relation_int_1_8 = 1,
+ unique_msr_secured_int_4 = 0,
+ unique_msr_secured_10 = False,
+ secured_state_rtu_relation_int_1_9 = 1,
+ secured_state_rtu_relation_int_4_12 = 0,
+ unique_msr_secured_11 = False,
+ secured_state_rtu_relation_int_2_12 = 1,
+ secured_state_ied_relation_1_7 = False,
+ secured_state_rtu_relation_5_11 = True,
+ secured_state_ied_relation_5_8 = False,
+ secured_state_rtu_relation_5_12 = False,
+ secured_state_ied_relation_int_4_7 = 0,
+ secured_state_ied_relation_int_5_8 = 0,
+ secured_state_rtu_relation_int_1_12 = 1,
+ secured_state_ied_relation_int_5_5 = 0,
+ unique_msr_secured_5 = True,
+ secured_state_ied_relation_2_7 = True,
+ secured_state_rtu_relation_2_11 = False,
+ unique_msr_secured_2 = True,
+ secured_state_rtu_relation_1_9 = True,
+ unique_msr_secured_7 = True,
+ unique_msr_secured_int_5 = 1,
+ secured_state_ied_relation_int_2_2 = 0,
+ unique_msr_secured_int_3 = 1,
+ secured_state_rtu_relation_3_9 = True,
+ secured_state_ied_relation_5_5 = False,
+ secured_state_ied_relation_int_3_5 = 1,
+ secured_state_ied_relation_int_3_6 = 0,
+ secured_state_rtu_relation_int_5_11 = 1,
+ secured_state_ied_relation_5_3 = False,
+ secured_state_ied_relation_int_3_3 = 1,
+ secured_state_rtu_relation_int_3_9 = 1,
+ secured_state_ied_relation_int_4_8 = 0,
+ secured_state_ied_relation_5_6 = True,
+ secured_state_rtu_relation_2_12 = True,
+ secured_state_rtu_relation_int_4_11 = 1,
+ secured_state_ied_relation_int_1_3 = 0,
+ secured_state_ied_relation_1_8 = True,
+ unique_msr_secured_int_10 = 0,
+ secured_state_ied_relation_int_2_3 = 1,
+ secured_state_ied_relation_1_2 = True,
+ secured_state_ied_relation_int_2_6 = 0,
+ secured_state_rtu_relation_int_3_11 = 1,
+ secured_state_ied_relation_2_2 = False,
+ unique_msr_secured_int_8 = 0,
+ secured_state_rtu_relation_int_5_10 = 0,
+ secured_state_rtu_relation_int_4_10 = 0,
+ secured_state_rtu_relation_int_3_12 = 0,
+ secured_state_rtu_relation_int_3_10 = 0,
+ secured_state_rtu_relation_int_2_10 = 0,
+ secured_state_rtu_relation_int_1_11 = 0,
+ secured_state_rtu_relation_int_1_10 = 0,
+ secured_state_ied_relation_int_5_4 = 0,
+ secured_state_ied_relation_int_5_1 = 0,
+ secured_state_ied_relation_int_4_4 = 0,
+ secured_state_ied_relation_int_4_2 = 0,
+ secured_state_ied_relation_int_4_1 = 0,
+ secured_state_ied_relation_int_3_8 = 0,
+ secured_state_ied_relation_int_3_7 = 0,
+ secured_state_ied_relation_int_3_4 = 0,
+ secured_state_ied_relation_int_3_2 = 0,
+ secured_state_ied_relation_int_3_1 = 0,
+ secured_state_ied_relation_int_2_4 = 0,
+ secured_state_ied_relation_int_2_1 = 0,
+ secured_state_ied_relation_int_1_6 = 0,
+ secured_state_ied_relation_int_1_5 = 0,
+ secured_state_ied_relation_int_1_4 = 0,
+ secured_state_ied_relation_int_1_1 = 0,
+ state_secured_5 = True,
+ state_secured_4 = True,
+ state_secured_3 = True,
+ state_secured_2 = True,
+ state_secured_1 = True,
+ unique_msr_secured_int_9 = 0,
+ unique_msr_secured_int_1 = 0,
+ secured_state_rtu_relation_5_10 = False,
+ secured_state_rtu_relation_4_10 = False,
+ secured_state_rtu_relation_3_12 = False,
+ secured_state_rtu_relation_3_10 = False,
+ secured_state_rtu_relation_2_10 = False,
+ secured_state_rtu_relation_1_11 = False,
+ secured_state_rtu_relation_1_10 = False,
+ ...]
+
+Authenticated IEDs
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Integrity protected IEDs
+1: False
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+
+Secured measurements
+1: False
+2: False
+3: True
+4: True
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+14: True
+
+Secured unique measurements
+1: False
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: False
+9: False
+10: False
+11: False
+
+Ieds Corresponding to Secured states
+1 1: 0
+1 2: 1
+1 3: 0
+1 4: 0
+1 5: 0
+1 6: 0
+1 7: 0
+1 8: 1
+2 1: 0
+2 2: 0
+2 3: 1
+2 4: 0
+2 5: 0
+2 6: 0
+2 7: 1
+2 8: 0
+3 1: 0
+3 2: 0
+3 3: 1
+3 4: 0
+3 5: 1
+3 6: 0
+3 7: 0
+3 8: 0
+4 1: 0
+4 2: 0
+4 3: 1
+4 4: 0
+4 5: 1
+4 6: 0
+4 7: 0
+4 8: 0
+5 1: 0
+5 2: 1
+5 3: 0
+5 4: 0
+5 5: 0
+5 6: 1
+5 7: 0
+5 8: 0
+
+Rtus Corresponding to Secured states
+1 9: 1
+1 10: 0
+1 11: 0
+1 12: 1
+2 9: 1
+2 10: 0
+2 11: 0
+2 12: 1
+3 9: 1
+3 10: 0
+3 11: 1
+3 12: 0
+4 9: 1
+4 10: 0
+4 11: 1
+4 12: 0
+5 9: 1
+5 10: 0
+5 11: 1
+5 12: 0
+

@@ -1,0 +1,96 @@
+Bus:14 Lines:20 Hierarchy:2 :: sat 0:00:00.044000
+Bus:14 Lines:20 Hierarchy:2 :: sat 0:00:00.040000
+Bus:14 Lines:20 Hierarchy:2 :: sat 0:00:00.038000
+Bus:14 Lines:20 Hierarchy:2 :: unsat 0:00:00.047000
+Bus:14 Lines:20 Hierarchy:2 :: unsat 0:00:00.054000
+Bus:14 Lines:20 Hierarchy:2 :: unsat 0:00:00.041000
+
+Bus:30 Lines:41 Hierarchy:2 :: sat 0:00:00.173000
+Bus:30 Lines:41 Hierarchy:2 :: sat 0:00:00.173000
+Bus:30 Lines:41 Hierarchy:2 :: sat 0:00:00.172000
+Bus:30 Lines:41 Hierarchy:2 :: unsat 0:00:00.217000
+Bus:30 Lines:41 Hierarchy:2 :: unsat 0:00:00.265000
+Bus:30 Lines:41 Hierarchy:2 :: unsat 0:00:00.230000
+
+Bus:57 Lines:80 Hierarchy:2 :: sat 0:00:01.189000
+Bus:57 Lines:80 Hierarchy:2 :: sat 0:00:01.207000
+Bus:57 Lines:80 Hierarchy:2 :: sat 0:00:01.205000
+Bus:57 Lines:80 Hierarchy:2 :: unsat 0:00:01.725000
+Bus:57 Lines:80 Hierarchy:2 :: unsat 0:00:01.583000
+Bus:57 Lines:80 Hierarchy:2 :: unsat 0:00:01.822000
+
+Execution time:
+Two Scenarios: Sat and Unsat
+Figure 1: Number of buses
+Figure 2: Number of measurements
+Figure 3: Number of ieds/rtus
+
+Figure 4: Hierarchiy (20 Bus)
+Figure 5: Hierarchiy (57 Bus)
+
+Analysis:
+Does the more hierarchy provide higher resilinecy
+Does bigger bus networs provide larger resiliency
+
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:14.437000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:14.511000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:14.418000
+
+Bus:118 Lines:186 Hierarchy:2 :: unsat 0:00:08.658000
+Bus:118 Lines:186 Hierarchy:2 :: unsat 0:00:08.436000
+Bus:118 Lines:186 Hierarchy:2 :: unsat 0:00:08.461000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:17.106000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:26.351000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:19.704000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:13.051000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:17.568000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:43.993000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:14.775000
+
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.008000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.007000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.009000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.010000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.010000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.007000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.011000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.007000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.009000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.009000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.008000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.006000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.011000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.008000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.007000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.006000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.002000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.013000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.010000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.002000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.008000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.011000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.002000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.003000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.007000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.007000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.010000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:14 Lines:20 Hierarchy:1 :: sat 0:00:00.132000
+Bus:14 Lines:20 Hierarchy:1 :: sat 0:00:00.079000
+Bus:300 Lines:411 Hierarchy:1 :: sat 0:01:05.453000
+Bus:300 Lines:411 Hierarchy:1 :: sat 0:02:12.703269
+Bus:300 Lines:411 Hierarchy:1 :: unsat 0:01:46.419128
+Bus:118 Lines:186 Hierarchy:1 :: sat 0:00:11.566157

@@ -1,0 +1,965 @@
+Bus:14 Lines:20 Hierarchy:2 :: sat 0:00:00.044000
+Bus:14 Lines:20 Hierarchy:2 :: sat 0:00:00.040000
+Bus:14 Lines:20 Hierarchy:2 :: sat 0:00:00.038000
+Bus:14 Lines:20 Hierarchy:2 :: unsat 0:00:00.047000
+Bus:14 Lines:20 Hierarchy:2 :: unsat 0:00:00.054000
+Bus:14 Lines:20 Hierarchy:2 :: unsat 0:00:00.041000
+
+Bus:30 Lines:41 Hierarchy:2 :: sat 0:00:00.173000
+Bus:30 Lines:41 Hierarchy:2 :: sat 0:00:00.173000
+Bus:30 Lines:41 Hierarchy:2 :: sat 0:00:00.172000
+Bus:30 Lines:41 Hierarchy:2 :: unsat 0:00:00.217000
+Bus:30 Lines:41 Hierarchy:2 :: unsat 0:00:00.265000
+Bus:30 Lines:41 Hierarchy:2 :: unsat 0:00:00.230000
+
+Bus:57 Lines:80 Hierarchy:2 :: sat 0:00:01.189000
+Bus:57 Lines:80 Hierarchy:2 :: sat 0:00:01.207000
+Bus:57 Lines:80 Hierarchy:2 :: sat 0:00:01.205000
+Bus:57 Lines:80 Hierarchy:2 :: unsat 0:00:01.725000
+Bus:57 Lines:80 Hierarchy:2 :: unsat 0:00:01.583000
+Bus:57 Lines:80 Hierarchy:2 :: unsat 0:00:01.822000
+
+Execution time:
+Two Scenarios: Sat and Unsat
+Figure 1: Number of buses
+Figure 2: Number of measurements
+Figure 3: Number of ieds/rtus
+
+Figure 4: Hierarchiy (20 Bus)
+Figure 5: Hierarchiy (57 Bus)
+
+Analysis:
+Does the more hierarchy provide higher resilinecy
+Does bigger bus networs provide larger resiliency
+
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:14.437000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:14.511000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:14.418000
+
+Bus:118 Lines:186 Hierarchy:2 :: unsat 0:00:08.658000
+Bus:118 Lines:186 Hierarchy:2 :: unsat 0:00:08.436000
+Bus:118 Lines:186 Hierarchy:2 :: unsat 0:00:08.461000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:17.106000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:26.351000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:19.704000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:13.051000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:17.568000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:43.993000
+Bus:118 Lines:186 Hierarchy:2 :: sat 0:00:14.775000
+
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.008000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.007000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.009000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.010000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.010000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.007000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.011000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.007000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.009000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.009000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.008000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.006000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.011000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.008000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.007000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.006000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.002000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.013000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.010000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.002000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.008000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.011000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.002000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.003000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.007000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.007000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.001000
+Bus:5 Lines:7 Hierarchy:1 :: unsat 0:00:00.010000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:5 Lines:7 Hierarchy:1 :: sat 0:00:00.004000
+Bus:118 Lines:186 Hierarchy:1 :: sat 0:00:10.827000
+Bus:300 Lines:411 Hierarchy:1 :: sat 0:05:22.781000
+Bus:300 Lines:411 Hierarchy:1 :: sat 0:05:29.086906
+Bus:300 Lines:411 Hierarchy:1 :: sat 0:03:16.213620
+Bus:300 Lines:411 Hierarchy:2 :: sat 0:02:22.691000
+Bus:14 Lines:20 Hierarchy:2 :: sat 0:00:00.044004
+Bus:14 Lines:20 Hierarchy:2 :: sat 0:00:00.047005
+Bus:14 Lines:20 Hierarchy:2 :: sat 0:00:00.040004
+Bus:14 Lines:20 Hierarchy:1 :: unsat 0:00:00.049005
+Bus:14 Lines:20 Hierarchy:1 :: sat 0:00:00.070007
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:3, 0 :: sat 0:00:00.076008
+Bus:57 Lines:80 Hierarchy:1 Resiliency Requirement:2, 0 :: sat 0:00:02.939294
+Bus:57 Lines:80 Hierarchy:1 Resiliency Requirement:1, 0 :: unsat 0:00:01.714172
+Bus:57 Lines:80 Hierarchy:1 Resiliency Requirement:3, 0 :: sat 0:00:06.712000
+Bus:57 Lines:80 Hierarchy:1 Resiliency Requirement:2, 0 :: unsat 0:00:02.166000
+Bus:57 Lines:80 Hierarchy:1 Resiliency Requirement:3, 0 :: sat 0:00:02.012000
+Bus:300 Lines:411 Hierarchy:1 Resiliency Requirement:1, 0 :: sat 0:03:51.550000
+
+
+Bus:14 Lines:20 Hierarchy:2 Resiliency Requirement:3, 0 :: sat 0:00:00.101000
+Bus:14 Lines:20 Hierarchy:2 Resiliency Requirement:2, 0 :: sat 0:00:00.063000
+Bus:14 Lines:20 Hierarchy:2 Resiliency Requirement:1, 0 :: unsat 0:00:00.131000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:3, 0 :: sat 0:00:00.054000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:2, 0 :: sat 0:00:00.069000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:2, 0 :: sat 0:00:00.169000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:1, 0 :: unsat 0:00:00.053000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:2, 0 :: sat 0:00:00.085000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:3, 0 :: unsat 0:00:00.131000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.222000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0 :: sat 0:00:00.154000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0 :: sat 0:00:00.100000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0 :: sat 0:00:00.132000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0 :: sat 0:00:00.170000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0 :: sat 0:00:00.181000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0 :: sat 0:00:00.175000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0 :: unsat 0:00:00.146000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: unsat 0:00:00.274000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:6, 0 :: sat 0:00:00.304000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:3, 0 :: unsat 0:00:00.104000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0 :: sat 0:00:00.092000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:3, 0 :: unsat 0:00:00.078000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0 :: unsat 0:00:00.134000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.102000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.199020
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.164016
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.137014
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.036003
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.002001
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.002000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.003000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.134013
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.030003
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.102010
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.151015
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.181018
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.172018
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.142014
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.211021
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.085009
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.212021
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.053005
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.162016
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.128013
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.224022
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.155015
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.020002
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.015001
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.009001
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.180018
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.044004
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: unsat 0:00:00.186019
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.164016
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.156016
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.138014
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.035003
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.003000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.002000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.002000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.143015
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.048005
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.125013
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.216021
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.266039
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.199020
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.191019
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.264039
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.093010
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.191019
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.055006
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.169017
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.130013
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.192019
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.145014
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.022002
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.020002
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.010001
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.160016
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.054005
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: unsat 0:00:00.212021
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.172017
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.156016
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.144015
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.037003
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.002001
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.003000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.004000
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.119012
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.029003
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.106011
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.198022
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.169017
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.177017
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.153015
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.206021
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.107011
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.196019
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.052005
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.168017
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.164016
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.211021
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.148015
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.025002
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.015001
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.010001
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.157016
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: sat 0:00:00.039004
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0 :: unsat 0:00:00.200020
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0
+Execution1::sat 0:00:00.162016
+Execution2::sat 0:00:00.167017
+Execution3::sat 0:00:00.127012
+Execution4::sat 0:00:00.041004
+Execution5::sat 0:00:00.003001
+Execution6::sat 0:00:00.002000
+Execution7::sat 0:00:00.003000
+Execution8::sat 0:00:00.109011
+Execution9::sat 0:00:00.030003
+Execution10::sat 0:00:00.098009
+Execution11::sat 0:00:00.153016
+Execution12::sat 0:00:00.167017
+Execution13::sat 0:00:00.147014
+Execution14::sat 0:00:00.149014
+Execution15::sat 0:00:00.171017
+Execution16::sat 0:00:00.090009
+Execution17::sat 0:00:00.192019
+Execution18::sat 0:00:00.050005
+Execution19::sat 0:00:00.176018
+Execution20::sat 0:00:00.131013
+Execution21::sat 0:00:00.191019
+Execution22::sat 0:00:00.156016
+Execution23::sat 0:00:00.020002
+Execution24::sat 0:00:00.012001
+Execution25::sat 0:00:00.010001
+Execution26::sat 0:00:00.157016
+Execution27::sat 0:00:00.039004
+Execution28::unsat 0:00:00.189019
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0
+Execution1::sat 0:00:00.099010
+Execution2::unsat 0:00:00.099010
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:6, 0
+Execution1::sat 0:00:00.138014
+Execution2::sat 0:00:00.007001
+Execution3::sat 0:00:00.054006
+Execution4::sat 0:00:00.003000
+Execution5::sat 0:00:00.003001
+Execution6::sat 0:00:00.143014
+Execution7::sat 0:00:00.004000
+Execution8::sat 0:00:00.003000
+Execution9::sat 0:00:00.183018
+Execution10::sat 0:00:00.037004
+Execution11::sat 0:00:00.031003
+Execution12::sat 0:00:00.030003
+Execution13::sat 0:00:00.283029
+Execution14::sat 0:00:00.003001
+Execution15::sat 0:00:00.003000
+Execution16::sat 0:00:00.021002
+Execution17::sat 0:00:00.025003
+Execution18::sat 0:00:00.018002
+Execution19::sat 0:00:00.018002
+Execution20::sat 0:00:00.018002
+Execution21::sat 0:00:00.003000
+Execution22::sat 0:00:00.018001
+Execution23::sat 0:00:00.155015
+Execution24::sat 0:00:00.006001
+Execution25::sat 0:00:00.003000
+Execution26::sat 0:00:00.113012
+Execution27::sat 0:00:00.389039
+Execution28::sat 0:00:00.007001
+Execution29::sat 0:00:00.002000
+Execution30::sat 0:00:00.002000
+Execution31::sat 0:00:00.016001
+Execution32::sat 0:00:00.310031
+Execution33::sat 0:00:00.170017
+Execution34::sat 0:00:00.011001
+Execution35::sat 0:00:00.049005
+Execution36::sat 0:00:00.003000
+Execution37::sat 0:00:00.003000
+Execution38::sat 0:00:00.256026
+Execution39::sat 0:00:00.101010
+Execution40::sat 0:00:00.275028
+Execution41::sat 0:00:00.249025
+Execution42::sat 0:00:00.054006
+Execution43::sat 0:00:00.006001
+Execution44::sat 0:00:00.003000
+Execution45::sat 0:00:00.022002
+Execution46::sat 0:00:00.002000
+Execution47::sat 0:00:00.235024
+Execution48::sat 0:00:00.039003
+Execution49::sat 0:00:00.004001
+Execution50::sat 0:00:00.003000
+Execution51::sat 0:00:00.003001
+Execution52::sat 0:00:00.002000
+Execution53::sat 0:00:00.123013
+Execution54::sat 0:00:00.008001
+Execution55::sat 0:00:00.002001
+Execution56::sat 0:00:00.091009
+Execution57::sat 0:00:00.287029
+Execution58::sat 0:00:00.150015
+Execution59::sat 0:00:00.291029
+Execution60::sat 0:00:00.165016
+Execution61::sat 0:00:00.139014
+Execution62::sat 0:00:00.223022
+Execution63::sat 0:00:00.004000
+Execution64::sat 0:00:00.023002
+Execution65::sat 0:00:00.014001
+Execution66::sat 0:00:00.003000
+Execution67::sat 0:00:00.002001
+Execution68::sat 0:00:00.002000
+Execution69::sat 0:00:00.194019
+Execution70::sat 0:00:00.020002
+Execution71::sat 0:00:00.020002
+Execution72::sat 0:00:00.023002
+Execution73::sat 0:00:00.022003
+Execution74::sat 0:00:00.024003
+Execution75::sat 0:00:00.320032
+Execution76::sat 0:00:00.020002
+Execution77::sat 0:00:00.177018
+Execution78::sat 0:00:00.164017
+Execution79::sat 0:00:00.164017
+Execution80::sat 0:00:00.219022
+Execution81::sat 0:00:00.338034
+Execution82::sat 0:00:00.341034
+Execution83::sat 0:00:00.008000
+Execution84::sat 0:00:00.004001
+Execution85::sat 0:00:00.025003
+Execution86::sat 0:00:00.023003
+Execution87::sat 0:00:00.022002
+Execution88::sat 0:00:00.015002
+Execution89::sat 0:00:00.003000
+Execution90::sat 0:00:00.002000
+Execution91::sat 0:00:00.002000
+Execution92::sat 0:00:00.002000
+Execution93::sat 0:00:00.002000
+Execution94::sat 0:00:00.002000
+Execution95::sat 0:00:00.003000
+Execution96::sat 0:00:00.002000
+Execution97::sat 0:00:00.003001
+Execution98::sat 0:00:00.003001
+Execution99::sat 0:00:00.002000
+Execution100::sat 0:00:00.003001
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:6, 0
+Execution1::sat 0:00:00.140014
+Execution2::sat 0:00:00.005001
+Execution3::sat 0:00:00.054005
+Execution4::sat 0:00:00.003000
+Execution5::sat 0:00:00.003000
+Execution6::sat 0:00:00.141014
+Execution7::sat 0:00:00.004000
+Execution8::sat 0:00:00.002001
+Execution9::sat 0:00:00.192019
+Execution10::sat 0:00:00.040004
+Execution11::sat 0:00:00.032003
+Execution12::sat 0:00:00.029003
+Execution13::sat 0:00:00.287028
+Execution14::sat 0:00:00.003000
+Execution15::sat 0:00:00.002000
+Execution16::sat 0:00:00.017001
+Execution17::sat 0:00:00.018002
+Execution18::sat 0:00:00.019002
+Execution19::sat 0:00:00.015002
+Execution20::sat 0:00:00.015001
+Execution21::sat 0:00:00.003000
+Execution22::sat 0:00:00.017002
+Execution23::sat 0:00:00.160016
+Execution24::sat 0:00:00.005001
+Execution25::sat 0:00:00.004000
+Execution26::sat 0:00:00.107011
+Execution27::sat 0:00:00.388038
+Execution28::sat 0:00:00.006001
+Execution29::sat 0:00:00.002000
+Execution30::sat 0:00:00.003001
+Execution31::sat 0:00:00.019002
+Execution32::sat 0:00:00.312031
+Execution33::sat 0:00:00.170017
+Execution34::sat 0:00:00.010001
+Execution35::sat 0:00:00.051005
+Execution36::sat 0:00:00.002000
+Execution37::sat 0:00:00.002000
+Execution38::sat 0:00:00.266026
+Execution39::sat 0:00:00.100010
+Execution40::sat 0:00:00.276027
+Execution41::sat 0:00:00.279028
+Execution42::sat 0:00:00.056006
+Execution43::sat 0:00:00.006001
+Execution44::sat 0:00:00.002001
+Execution45::sat 0:00:00.021002
+Execution46::sat 0:00:00.002000
+Execution47::sat 0:00:00.249025
+Execution48::sat 0:00:00.040004
+Execution49::sat 0:00:00.004000
+Execution50::sat 0:00:00.003001
+Execution51::sat 0:00:00.003001
+Execution52::sat 0:00:00.002000
+Execution53::sat 0:00:00.130013
+Execution54::sat 0:00:00.008001
+Execution55::sat 0:00:00.003001
+Execution56::sat 0:00:00.090009
+Execution57::sat 0:00:00.282028
+Execution58::sat 0:00:00.153015
+Execution59::sat 0:00:00.294029
+Execution60::sat 0:00:00.168017
+Execution61::sat 0:00:00.150015
+Execution62::sat 0:00:00.211021
+Execution63::sat 0:00:00.004000
+Execution64::sat 0:00:00.025003
+Execution65::sat 0:00:00.014001
+Execution66::sat 0:00:00.003001
+Execution67::sat 0:00:00.002000
+Execution68::sat 0:00:00.002001
+Execution69::sat 0:00:00.196019
+Execution70::sat 0:00:00.020002
+Execution71::sat 0:00:00.018002
+Execution72::sat 0:00:00.023003
+Execution73::sat 0:00:00.021003
+Execution74::sat 0:00:00.023002
+Execution75::sat 0:00:00.286029
+Execution76::sat 0:00:00.015002
+Execution77::sat 0:00:00.210021
+Execution78::sat 0:00:00.170017
+Execution79::sat 0:00:00.161016
+Execution80::sat 0:00:00.159016
+Execution81::sat 0:00:00.320032
+Execution82::sat 0:00:00.330033
+Execution83::sat 0:00:00.009001
+Execution84::sat 0:00:00.003000
+Execution85::sat 0:00:00.028003
+Execution86::sat 0:00:00.021002
+Execution87::sat 0:00:00.021002
+Execution88::sat 0:00:00.015002
+Execution89::sat 0:00:00.003000
+Execution90::sat 0:00:00.002000
+Execution91::sat 0:00:00.003000
+Execution92::sat 0:00:00.003000
+Execution93::sat 0:00:00.002001
+Execution94::sat 0:00:00.003000
+Execution95::sat 0:00:00.003001
+Execution96::sat 0:00:00.002001
+Execution97::sat 0:00:00.003001
+Execution98::sat 0:00:00.003000
+Execution99::sat 0:00:00.003001
+Execution100::sat 0:00:00.004000
+Execution101::sat 0:00:00.003000
+Execution102::sat 0:00:00.003000
+Execution103::sat 0:00:00.002000
+Execution104::sat 0:00:00.341034
+Execution105::sat 0:00:00.008001
+Execution106::sat 0:00:00.003001
+Execution107::sat 0:00:00.003000
+Execution108::sat 0:00:00.024003
+Execution109::sat 0:00:00.313032
+Execution110::sat 0:00:00.011001
+Execution111::sat 0:00:00.188018
+Execution112::sat 0:00:00.045005
+Execution113::sat 0:00:00.462046
+Execution114::sat 0:00:00.058005
+Execution115::sat 0:00:00.133014
+Execution116::sat 0:00:00.108010
+Execution117::sat 0:00:00.007001
+Execution118::sat 0:00:00.003000
+Execution119::sat 0:00:00.003000
+Execution120::sat 0:00:00.002000
+Execution121::sat 0:00:00.023003
+Execution122::sat 0:00:00.233024
+Execution123::sat 0:00:00.335034
+Execution124::sat 0:00:00.110011
+Execution125::sat 0:00:00.231023
+Execution126::sat 0:00:00.048005
+Execution127::sat 0:00:00.003000
+Execution128::sat 0:00:00.003000
+Execution129::sat 0:00:00.023002
+Execution130::sat 0:00:00.377037
+Execution131::sat 0:00:00.363036
+Execution132::sat 0:00:00.220022
+Execution133::sat 0:00:00.042004
+Execution134::sat 0:00:00.066007
+Execution135::sat 0:00:00.271027
+Execution136::sat 0:00:00.167016
+Execution137::sat 0:00:00.381038
+Execution138::sat 0:00:00.193019
+Execution139::sat 0:00:00.059006
+Execution140::sat 0:00:00.010001
+Execution141::sat 0:00:00.002000
+Execution142::sat 0:00:00.028003
+Execution143::sat 0:00:00.018002
+Execution144::sat 0:00:00.050005
+Execution145::sat 0:00:00.325033
+Execution146::sat 0:00:00.030003
+Execution147::sat 0:00:00.095010
+Execution148::sat 0:00:00.302030
+Execution149::sat 0:00:00.021002
+Execution150::sat 0:00:00.399040
+Execution151::sat 0:00:00.267027
+Execution152::sat 0:00:00.097010
+Execution153::sat 0:00:00.327033
+Execution154::sat 0:00:00.351035
+Execution155::sat 0:00:00.227023
+Execution156::sat 0:00:00.049005
+Execution157::sat 0:00:00.226023
+Execution158::sat 0:00:00.274028
+Execution159::sat 0:00:00.009001
+Execution160::sat 0:00:00.022002
+Execution161::sat 0:00:00.023003
+Execution162::sat 0:00:00.023003
+Execution163::sat 0:00:00.258026
+Execution164::sat 0:00:00.142014
+Execution165::sat 0:00:00.008001
+Execution166::sat 0:00:00.002000
+Execution167::sat 0:00:00.003001
+Execution168::sat 0:00:00.028003
+Execution169::sat 0:00:00.162016
+Execution170::sat 0:00:00.428043
+Execution171::sat 0:00:00.033003
+Execution172::sat 0:00:00.022002
+Execution173::sat 0:00:00.010001
+Execution174::sat 0:00:00.004001
+Execution175::sat 0:00:00.005000
+Execution176::sat 0:00:00.004000
+Execution177::sat 0:00:00.054005
+Execution178::sat 0:00:00.287028
+Execution179::sat 0:00:00.270027
+Execution180::sat 0:00:00.005000
+Execution181::sat 0:00:00.027003
+Execution182::sat 0:00:00.019002
+Execution183::sat 0:00:00.023002
+Execution184::sat 0:00:00.145015
+Execution185::sat 0:00:00.017002
+Execution186::sat 0:00:00.018001
+Execution187::sat 0:00:00.002000
+Execution188::sat 0:00:00.005001
+Execution189::sat 0:00:00.003000
+Execution190::sat 0:00:00.002000
+Execution191::sat 0:00:00.003001
+Execution192::sat 0:00:00.003000
+Execution193::sat 0:00:00.003000
+Execution194::sat 0:00:00.421043
+Execution195::sat 0:00:00.375038
+Execution196::sat 0:00:00.455046
+Execution197::sat 0:00:00.028003
+Execution198::sat 0:00:00.426042
+Execution199::sat 0:00:00.077008
+Execution200::sat 0:00:00.378037
+Execution201::sat 0:00:00.021002
+Execution202::sat 0:00:00.029003
+Execution203::sat 0:00:00.015001
+Execution204::sat 0:00:00.401040
+Execution205::sat 0:00:00.018001
+Execution206::sat 0:00:00.237024
+Execution207::sat 0:00:00.009001
+Execution208::sat 0:00:00.407040
+Execution209::sat 0:00:00.273028
+Execution210::sat 0:00:00.006000
+Execution211::sat 0:00:00.002000
+Execution212::sat 0:00:00.447045
+Execution213::sat 0:00:00.199020
+Execution214::sat 0:00:00.272028
+Execution215::sat 0:00:00.278027
+Execution216::sat 0:00:00.035003
+Execution217::sat 0:00:00.031004
+Execution218::sat 0:00:00.426043
+Execution219::sat 0:00:00.471047
+Execution220::sat 0:00:00.433043
+Execution221::sat 0:00:00.019001
+Execution222::sat 0:00:00.038004
+Execution223::sat 0:00:00.260026
+Execution224::sat 0:00:00.013001
+Execution225::sat 0:00:00.025003
+Execution226::sat 0:00:00.015002
+Execution227::sat 0:00:00.024003
+Execution228::sat 0:00:00.364037
+Execution229::sat 0:00:00.465047
+Execution230::sat 0:00:00.050005
+Execution231::sat 0:00:00.443045
+Execution232::sat 0:00:00.036004
+Execution233::sat 0:00:00.039004
+Execution234::sat 0:00:00.021002
+Execution235::sat 0:00:00.010001
+Execution236::sat 0:00:00.514051
+Execution237::sat 0:00:00.246025
+Execution238::sat 0:00:00.384039
+Execution239::sat 0:00:00.306030
+Execution240::sat 0:00:00.010001
+Execution241::sat 0:00:00.342035
+Execution242::sat 0:00:00.041004
+Execution243::sat 0:00:00.038004
+Execution244::sat 0:00:00.048005
+Execution245::sat 0:00:00.532053
+Execution246::sat 0:00:00.013001
+Execution247::sat 0:00:00.160016
+Execution248::sat 0:00:00.005001
+Execution249::sat 0:00:00.004000
+Execution250::sat 0:00:00.031003
+Execution251::sat 0:00:00.021002
+Execution252::sat 0:00:00.028003
+Execution253::sat 0:00:00.473048
+Execution254::sat 0:00:00.524053
+Execution255::sat 0:00:00.186018
+Execution256::sat 0:00:00.029003
+Execution257::sat 0:00:00.003000
+Execution258::sat 0:00:00.429043
+Execution259::sat 0:00:00.019002
+Execution260::sat 0:00:00.046005
+Execution261::sat 0:00:00.025002
+Execution262::sat 0:00:00.020002
+Execution263::sat 0:00:00.506051
+Execution264::sat 0:00:00.467548
+Execution265::sat 0:00:00.102010
+Execution266::sat 0:00:00.282028
+Execution267::sat 0:00:00.273027
+Execution268::sat 0:00:00.024003
+Execution269::sat 0:00:00.291029
+Execution270::sat 0:00:00.058006
+Execution271::sat 0:00:00.046005
+Execution272::sat 0:00:00.727073
+Execution273::sat 0:00:00.303030
+Execution274::sat 0:00:00.210021
+Execution275::sat 0:00:00.469047
+Execution276::sat 0:00:00.023002
+Execution277::sat 0:00:00.411041
+Execution278::sat 0:00:00.288029
+Execution279::sat 0:00:00.040004
+Execution280::sat 0:00:00.318032
+Execution281::sat 0:00:00.022003
+Execution282::sat 0:00:00.023002
+Execution283::sat 0:00:00.009001
+Execution284::sat 0:00:00.127012
+Execution285::sat 0:00:00.014001
+Execution286::sat 0:00:00.617061
+Execution287::sat 0:00:00.173017
+Execution288::sat 0:00:00.704070
+Execution289::sat 0:00:00.282028
+Execution290::sat 0:00:00.035003
+Execution291::sat 0:00:00.443051
+Execution292::sat 0:00:00.026002
+Execution293::sat 0:00:00.039004
+Execution294::sat 0:00:00.075008
+Execution295::sat 0:00:00.097010
+Execution296::sat 0:00:00.003001
+Execution297::sat 0:00:00.413041
+Execution298::sat 0:00:00.023002
+Execution299::sat 0:00:00.621062
+Execution300::sat 0:00:00.048005
+Execution301::sat 0:00:00.036003
+Execution302::sat 0:00:00.017001
+Execution303::sat 0:00:00.660069
+Execution304::sat 0:00:00.943116
+Execution305::sat 0:00:00.725072
+Execution306::sat 0:00:00.632063
+Execution307::sat 0:00:00.623062
+Execution308::sat 0:00:00.033004
+Execution309::sat 0:00:00.043005
+Execution310::sat 0:00:00.027003
+Execution311::sat 0:00:00.041004
+Execution312::sat 0:00:00.580058
+Execution313::sat 0:00:00.063006
+Execution314::sat 0:00:00.167016
+Execution315::sat 0:00:00.559056
+Execution316::sat 0:00:00.424042
+Execution317::sat 0:00:00.496050
+Execution318::sat 0:00:00.547055
+Execution319::sat 0:00:00.212021
+Execution320::sat 0:00:00.603060
+Execution321::sat 0:00:00.047005
+Execution322::sat 0:00:00.619062
+Execution323::sat 0:00:00.652065
+Execution324::sat 0:00:00.063007
+Execution325::sat 0:00:00.553055
+Execution326::sat 0:00:00.568062
+Execution327::sat 0:00:00.060006
+Execution328::sat 0:00:00.620062
+Execution329::sat 0:00:00.610061
+Execution330::sat 0:00:00.601061
+Execution331::sat 0:00:00.488049
+Execution332::sat 0:00:00.560056
+Execution333::sat 0:00:00.547055
+Execution334::sat 0:00:00.445044
+Execution335::sat 0:00:00.634063
+Execution336::sat 0:00:00.700070
+Execution337::sat 0:00:00.291029
+Execution338::sat 0:00:00.692069
+Execution339::sat 0:00:00.051005
+Execution340::sat 0:00:00.654065
+Execution341::sat 0:00:00.066007
+Execution342::sat 0:00:00.706071
+Execution343::sat 0:00:00.275028
+Execution344::sat 0:00:00.693070
+Execution345::sat 0:00:00.639063
+Execution346::sat 0:00:00.406040
+Execution347::sat 0:00:00.085009
+Execution348::sat 0:00:00.053005
+Execution349::sat 0:00:00.379038
+Execution350::sat 0:00:00.533053
+Execution351::sat 0:00:00.056006
+Execution352::sat 0:00:00.677070
+Execution353::sat 0:00:00.612061
+Execution354::sat 0:00:00.526052
+Execution355::unsat 0:00:00.739074
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0
+Execution1::sat 0:00:00.102011
+Execution2::unsat 0:00:00.112011
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0
+Execution1::sat 0:00:00.162016
+Execution2::sat 0:00:00.158016
+Execution3::sat 0:00:00.156016
+Execution4::sat 0:00:00.003000
+Execution5::sat 0:00:00.032004
+Execution6::sat 0:00:00.003000
+Execution7::sat 0:00:00.067007
+Execution8::sat 0:00:00.114012
+Execution9::sat 0:00:00.005000
+Execution10::sat 0:00:00.137014
+Execution11::sat 0:00:00.004000
+Execution12::sat 0:00:00.188019
+Execution13::sat 0:00:00.145014
+Execution14::sat 0:00:00.068007
+Execution15::sat 0:00:00.102010
+Execution16::sat 0:00:00.003000
+Execution17::sat 0:00:00.093010
+Execution18::sat 0:00:00.039004
+Execution19::sat 0:00:00.192019
+Execution20::sat 0:00:00.032003
+Execution21::sat 0:00:00.165016
+Execution22::sat 0:00:00.031003
+Execution23::sat 0:00:00.159016
+Execution24::sat 0:00:00.123012
+Execution25::sat 0:00:00.112011
+Execution26::sat 0:00:00.141014
+Execution27::unsat 0:00:00.173017
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0
+Execution1::unsat 0:00:00.044004
+Execution1::unsat 0:00:00.092009
+Execution1::unsat 0:00:00.057005
+Execution1::sat 0:00:00.115011
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0
+Execution1::unsat 0:00:00.037003
+Execution1::unsat 0:00:00.081008
+Execution1::unsat 0:00:00.057005
+Execution1::sat 0:00:00.110011
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:4, 0
+Execution1::sat 0:00:00.106010
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0
+Execution1::sat 0:00:00.150015
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0
+Execution1::unsat 0:00:00.046005
+Execution1::unsat 0:00:00.073007
+Execution1::unsat 0:00:00.061006
+Execution1::sat 0:00:00.109011
+Execution2::unsat 0:00:00.097010
+Execution2::sat 0:00:00.203020
+Execution3::sat 0:00:00.004000
+Execution4::sat 0:00:00.003000
+Execution5::sat 0:00:00.012001
+Execution6::sat 0:00:00.045004
+Execution7::sat 0:00:00.013001
+Execution8::sat 0:00:00.153015
+Execution9::sat 0:00:00.074007
+Execution10::sat 0:00:00.003001
+Execution11::sat 0:00:00.032004
+Execution12::sat 0:00:00.198019
+Execution13::sat 0:00:00.057005
+Execution14::sat 0:00:00.136014
+Execution15::sat 0:00:00.037004
+Execution16::sat 0:00:00.166017
+Execution17::sat 0:00:00.186019
+Execution18::sat 0:00:00.088009
+Execution19::sat 0:00:00.016002
+Execution20::sat 0:00:00.038004
+Execution21::sat 0:00:00.074007
+Execution22::sat 0:00:00.038004
+Execution23::sat 0:00:00.134014
+Execution24::sat 0:00:00.165017
+Execution25::sat 0:00:00.158016
+Execution26::sat 0:00:00.149015
+Execution27::sat 0:00:00.162016
+Execution28::unsat 0:00:00.175017
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0
+Execution1::unsat 0:00:00.047005
+Execution1::unsat 0:00:00.071007
+Execution1::unsat 0:00:00.064006
+Execution1::sat 0:00:00.109011
+Execution2::unsat 0:00:00.097010
+Execution2::sat 0:00:00.207020
+Execution3::sat 0:00:00.004000
+Execution4::sat 0:00:00.003000
+Execution5::sat 0:00:00.012002
+Execution6::sat 0:00:00.040004
+Execution7::sat 0:00:00.012001
+Execution8::sat 0:00:00.159016
+Execution9::sat 0:00:00.074008
+Execution10::sat 0:00:00.002000
+Execution11::sat 0:00:00.032003
+Execution12::sat 0:00:00.200020
+Execution13::sat 0:00:00.056005
+Execution14::sat 0:00:00.139014
+Execution15::sat 0:00:00.040004
+Execution16::sat 0:00:00.163016
+Execution17::sat 0:00:00.185019
+Execution18::sat 0:00:00.087009
+Execution19::sat 0:00:00.015002
+Execution20::sat 0:00:00.039004
+Execution21::sat 0:00:00.073007
+Execution22::sat 0:00:00.042004
+Execution23::sat 0:00:00.136014
+Execution24::sat 0:00:00.165016
+Execution25::sat 0:00:00.160016
+Execution26::sat 0:00:00.152015
+Execution27::sat 0:00:00.163016
+Execution28::unsat 0:00:00.177018
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0
+Execution1::unsat 0:00:00.051005
+Execution1::unsat 0:00:00.071007
+Execution1::unsat 0:00:00.060006
+Execution1::sat 0:00:00.111012
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:5, 0
+Execution1::unsat 0:00:00.048005
+Execution1::unsat 0:00:00.076008
+Execution1::unsat 0:00:00.062006
+Execution1::sat 0:00:00.118012
+Execution2::unsat 0:00:00.132013
+Execution2::sat 0:00:00.199019
+Execution3::sat 0:00:00.171017
+Execution4::unsat 0:00:00.184019
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:6, 0
+Execution1::unsat 0:00:00.069007
+Execution1::unsat 0:00:00.082008
+Execution1::unsat 0:00:00.076008
+Execution1::sat 0:00:00.113011
+Execution2::unsat 0:00:00.138014
+Execution2::sat 0:00:00.201020
+Execution3::sat 0:00:00.179018
+Execution4::unsat 0:00:00.199020
+Execution4::sat 0:00:00.160016
+Execution5::sat 0:00:00.287029
+Execution6::sat 0:00:00.379038
+Execution7::sat 0:00:00.363036
+Execution8::sat 0:00:00.294030
+Execution9::unsat 0:00:00.254025
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:7, 0
+Execution1::unsat 0:00:00.047005
+Execution1::unsat 0:00:00.071007
+Execution1::unsat 0:00:00.064007
+Execution1::sat 0:00:00.125012
+Execution2::unsat 0:00:00.129012
+Execution2::sat 0:00:00.212021
+Execution3::sat 0:00:00.190019
+Execution4::unsat 0:00:00.188019
+Execution4::sat 0:00:00.168017
+Execution5::sat 0:00:00.287029
+Execution6::sat 0:00:00.316031
+Execution7::sat 0:00:00.389039
+Execution8::sat 0:00:00.323032
+Execution9::unsat 0:00:00.294030
+Execution9::unsat 0:00:00.647065
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:7, 0
+Execution1::unsat 0:00:00.055147
+Execution1::unsat 0:00:00.057154
+Execution1::unsat 0:00:00.116212
+Execution1::sat 0:00:00.189147
+Execution2::unsat 0:00:00.195872
+Execution2::sat 0:00:00.353933
+Execution3::sat 0:00:00.291781
+Execution4::unsat 0:00:00.257776
+Execution4::sat 0:00:00.244157
+Execution5::sat 0:00:00.318951
+Execution6::sat 0:00:00.181471
+Execution7::sat 0:00:00.314384
+Execution8::sat 0:00:00.457204
+Execution9::unsat 0:00:00.378024
+Execution9::unsat 0:00:00.731985
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:7, 0
+Execution1::unsat 0:00:00.036862
+Execution1::unsat 0:00:00.027891
+Execution1::unsat 0:00:00.043879
+Execution1::sat 0:00:00.084719
+Execution2::unsat 0:00:00.070808
+Execution2::sat 0:00:00.137674
+Execution3::sat 0:00:00.126667
+Execution4::unsat 0:00:00.109741
+Execution4::sat 0:00:00.117895
+Execution5::sat 0:00:00.190996
+Execution6::sat 0:00:00.073762
+Execution7::sat 0:00:00.144694
+Execution8::sat 0:00:00.239869
+Execution9::unsat 0:00:00.195560
+Execution9::unsat 0:00:00.345703
+***************************
+
+-----------------------------
+Bus:14 Lines:20 Hierarchy:1 Resiliency Requirement:7, 0
+Execution1::unsat 0:00:00.033772
+Execution1::unsat 0:00:00.025088
+Execution1::unsat 0:00:00.042082
+Execution1::sat 0:00:00.074324
+Execution2::unsat 0:00:00.074196
+Execution2::sat 0:00:00.133186
+Execution3::sat 0:00:00.110254
+Execution4::unsat 0:00:00.099874
+Execution4::sat 0:00:00.074366
+Execution5::sat 0:00:00.140170
+Execution6::sat 0:00:00.060148
+Execution7::sat 0:00:00.119742
+Execution8::sat 0:00:00.173982
+Execution9::unsat 0:00:00.150101
+Execution9::unsat 0:00:00.270321
+***************************
+

@@ -1,0 +1,82 @@
+# Number of states and measurements
+5 14
+
+# Jacobian matrix (the relation between the states and the measurements)
+# Msr No, Corresponding Row of Jacobian Matrix
+0 -5.05 5.05 0 0
+0 -5.67 0 5.67 0
+0 -5.75 0 0 5.75
+0 0 0 -23.75 23.75
+16.9 -16.9 0 0 0
+4.48 0 0 0 -4.48
+0 5.67 0 -5.67 0
+0 5.75 0 0 -5.75
+0 0 5.85 -5.85 0
+0 0 0 23.75 -23.75
+-16.9 33.37 -5.05 -5.67 -5.75
+0 -5.05 10.9 -5.85 0
+0 -5.67 -5.85 41.85 -23.75
+-4.48 -5.75 0 -23.75 37.95
+
+# The unique measurement sets (TODO: it should not be an input)
+11
+1
+2 7
+3 8
+4 10
+5
+6
+9
+11 
+12
+13
+14
+
+# Topology
+# Number of IEDs (1-8) and RTUs (9-12) (1 MTU (13) is assumed)
+8 4
+
+# Measurements corresponding to IEDs
+1 1 2
+2 3 5
+3 11
+4 12
+5 4 7
+6 13
+7 6 8 10
+8 14
+
+# Point-to-point Reachability (among the IEDs, the RTUs, and the MTU)
+# It can be thought just as a link.
+# Assuming to be given for the time being
+12
+1 9
+2 9
+3 9
+4 10
+5 11
+6 11
+7 12
+8 12
+9 13
+10 11
+11 13
+12 13
+
+# Security profile between the communicating entities
+11
+1 9 chap sha2
+2 9 chap sha2
+3 9 chap sha2
+5 11 hmac
+6 11 hmac
+7 12 hmac
+8 12 hmac
+9 13 rsa aes
+10 11 rsa aes
+11 13 rsa aes
+12 13 rsa aes
+
+
+
+

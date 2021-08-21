@@ -1,0 +1,2384 @@
+Execution time: 0:00:00.008000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: False
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 1
+8: 1
+9: 1
+10: 1
+11: 0
+12: 0
+13: 1
+
+CommPath for IEDs
+1: True
+2: True
+3: True
+4: False
+5: False
+6: False
+7: False
+8: False
+
+Delivered measurements
+1: True
+2: True
+3: True
+4: False
+5: True
+6: False
+7: False
+8: False
+9: False
+10: False
+11: True
+12: False
+13: False
+14: False
+
+Delivered unique measurements
+1: True
+2: True
+3: True
+4: False
+5: True
+6: False
+7: False
+8: False
+9: False
+10: False
+11: False
+
+***************************
+
+Execution time: 0:00:00.007000
+unsat
+
+No more satisfiabile result
+***************************
+
+Execution time: 0:00:00.009000
+unsat
+
+No more satisfiabile result
+***************************
+
+Execution time: 0:00:00.010000
+unsat
+
+No more satisfiabile result
+***************************
+
+Execution time: 0:00:00.001000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: False
+2: False
+3: True
+4: True
+5: False
+6: True
+7: False
+8: True
+9: True
+10: True
+11: True
+12: True
+13: True
+
+Nodes (Int)
+1: 0
+2: 0
+3: 1
+4: 1
+5: 0
+6: 1
+7: 0
+8: 1
+9: 1
+10: 1
+11: 1
+12: 1
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: True
+4: True
+5: False
+6: True
+7: False
+8: True
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: False
+7: False
+8: False
+9: False
+10: False
+11: True
+12: True
+13: True
+14: True
+
+Delivered unique measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: False
+7: False
+8: True
+9: True
+10: True
+11: True
+
+***************************
+
+Execution time: 0:00:00.010000
+unsat
+
+No more satisfiabile result
+***************************
+
+Execution time: 0:00:00.007000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: True
+2: False
+3: True
+4: True
+5: True
+6: True
+7: False
+8: True
+9: True
+10: True
+11: False
+12: True
+13: True
+
+Nodes (Int)
+1: 1
+2: 0
+3: 1
+4: 1
+5: 1
+6: 1
+7: 0
+8: 1
+9: 1
+10: 1
+11: 0
+12: 1
+13: 1
+
+CommPath for IEDs
+1: True
+2: False
+3: True
+4: False
+5: False
+6: False
+7: False
+8: True
+
+Delivered measurements
+1: True
+2: True
+3: False
+4: False
+5: False
+6: False
+7: False
+8: False
+9: False
+10: False
+11: True
+12: False
+13: False
+14: True
+
+Delivered unique measurements
+1: True
+2: True
+3: False
+4: False
+5: False
+6: False
+7: False
+8: True
+9: False
+10: False
+11: True
+
+***************************
+
+Execution time: 0:00:00.011000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: False
+6: True
+7: False
+8: True
+9: False
+10: True
+11: True
+12: True
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 0
+6: 1
+7: 0
+8: 1
+9: 0
+10: 1
+11: 1
+12: 1
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: False
+6: True
+7: False
+8: True
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: False
+7: False
+8: False
+9: False
+10: False
+11: False
+12: True
+13: True
+14: True
+
+Delivered unique measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: False
+7: False
+8: False
+9: True
+10: True
+11: True
+
+***************************
+
+Execution time: 0:00:00.004000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: True
+8: False
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 1
+8: 0
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: True
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: True
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+
+***************************
+
+Execution time: 0:00:00.007000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: False
+8: True
+9: True
+10: True
+11: False
+12: True
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 0
+8: 1
+9: 1
+10: 1
+11: 0
+12: 1
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: False
+5: False
+6: False
+7: False
+8: True
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: False
+7: False
+8: False
+9: False
+10: False
+11: False
+12: False
+13: False
+14: True
+
+Delivered unique measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: False
+7: False
+8: False
+9: False
+10: False
+11: True
+
+***************************
+
+Execution time: 0:00:00.009000
+unsat
+
+No more satisfiabile result
+***************************
+
+Execution time: 0:00:00.009000
+unsat
+
+No more satisfiabile result
+***************************
+
+Execution time: 0:00:00.008000
+unsat
+
+No more satisfiabile result
+***************************
+
+Execution time: 0:00:00.001000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: False
+2: False
+3: True
+4: True
+5: False
+6: True
+7: False
+8: True
+9: True
+10: True
+11: True
+12: True
+13: True
+
+Nodes (Int)
+1: 0
+2: 0
+3: 1
+4: 1
+5: 0
+6: 1
+7: 0
+8: 1
+9: 1
+10: 1
+11: 1
+12: 1
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: True
+4: True
+5: False
+6: True
+7: False
+8: True
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: False
+7: False
+8: False
+9: False
+10: False
+11: True
+12: True
+13: True
+14: True
+
+Delivered unique measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: False
+7: False
+8: True
+9: True
+10: True
+11: True
+
+***************************
+
+Execution time: 0:00:00.006000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: False
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 1
+8: 1
+9: 1
+10: 1
+11: 0
+12: 0
+13: 1
+
+CommPath for IEDs
+1: True
+2: True
+3: True
+4: False
+5: False
+6: False
+7: False
+8: False
+
+Delivered measurements
+1: True
+2: True
+3: True
+4: False
+5: True
+6: False
+7: False
+8: False
+9: False
+10: False
+11: True
+12: False
+13: False
+14: False
+
+Delivered unique measurements
+1: True
+2: True
+3: True
+4: False
+5: True
+6: False
+7: False
+8: False
+9: False
+10: False
+11: False
+
+***************************
+
+Execution time: 0:00:00.004000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: True
+8: False
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 1
+8: 0
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: True
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: True
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+
+***************************
+
+Execution time: 0:00:00.004000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 1
+8: 1
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: True
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: True
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+
+***************************
+
+Execution time: 0:00:00.011000
+unsat
+
+No more satisfiabile result
+***************************
+
+Results:
+Scenario 1: link 9 -- 13: Resilient to 1 0, 0 1, and 1 1
+
+Scenario 2: link 9 -- 12: Resilient to 1 0 only
+Execution time: 0:00:00.008000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: True
+2: False
+3: True
+4: True
+5: True
+6: True
+7: False
+8: True
+9: True
+10: True
+11: False
+12: True
+13: True
+
+Nodes (Int)
+1: 1
+2: 0
+3: 1
+4: 1
+5: 1
+6: 1
+7: 0
+8: 1
+9: 1
+10: 1
+11: 0
+12: 1
+13: 1
+
+CommPath for IEDs
+1: True
+2: False
+3: True
+4: False
+5: False
+6: False
+7: False
+8: True
+
+Delivered measurements
+1: True
+2: True
+3: False
+4: False
+5: False
+6: False
+7: False
+8: False
+9: False
+10: False
+11: True
+12: False
+13: False
+14: True
+
+Delivered unique measurements
+1: True
+2: True
+3: False
+4: False
+5: False
+6: False
+7: False
+8: True
+9: False
+10: False
+11: True
+
+***************************
+
+Execution time: 0:00:00.007000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: True
+2: False
+3: True
+4: True
+5: True
+6: True
+7: False
+8: True
+9: True
+10: True
+11: False
+12: True
+13: True
+
+Nodes (Int)
+1: 1
+2: 0
+3: 1
+4: 1
+5: 1
+6: 1
+7: 0
+8: 1
+9: 1
+10: 1
+11: 0
+12: 1
+13: 1
+
+CommPath for IEDs
+1: True
+2: False
+3: True
+4: False
+5: False
+6: False
+7: False
+8: True
+
+Delivered measurements
+1: True
+2: True
+3: False
+4: False
+5: False
+6: False
+7: False
+8: False
+9: False
+10: False
+11: True
+12: False
+13: False
+14: True
+
+Delivered unique measurements
+1: True
+2: True
+3: False
+4: False
+5: False
+6: False
+7: False
+8: True
+9: False
+10: False
+11: True
+
+Execution time: 0:00:00.001000
+sat
+-----------------------------
+Solution No 2
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: False
+8: False
+9: True
+10: True
+11: False
+12: True
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 0
+8: 0
+9: 1
+10: 1
+11: 0
+12: 1
+13: 1
+
+CommPath for IEDs
+1: True
+2: True
+3: True
+4: False
+5: False
+6: False
+7: False
+8: False
+
+Delivered measurements
+1: True
+2: True
+3: True
+4: False
+5: True
+6: False
+7: False
+8: False
+9: False
+10: False
+11: True
+12: False
+13: False
+14: False
+
+Delivered unique measurements
+1: True
+2: True
+3: True
+4: False
+5: True
+6: False
+7: False
+8: False
+9: False
+10: False
+11: False
+
+Execution time: 0:00:00.006000
+sat
+-----------------------------
+Solution No 3
+
+Nodes
+1: False
+2: True
+3: False
+4: True
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: False
+12: True
+13: True
+
+Nodes (Int)
+1: 0
+2: 1
+3: 0
+4: 1
+5: 1
+6: 1
+7: 1
+8: 1
+9: 1
+10: 1
+11: 0
+12: 1
+13: 1
+
+CommPath for IEDs
+1: False
+2: True
+3: False
+4: False
+5: False
+6: False
+7: True
+8: True
+
+Delivered measurements
+1: False
+2: False
+3: True
+4: False
+5: True
+6: True
+7: False
+8: True
+9: False
+10: True
+11: False
+12: False
+13: False
+14: True
+
+Delivered unique measurements
+1: False
+2: False
+3: True
+4: True
+5: True
+6: True
+7: False
+8: False
+9: False
+10: False
+11: False
+
+Execution time: 0:00:00.002000
+sat
+-----------------------------
+Solution No 4
+
+Nodes
+1: False
+2: True
+3: True
+4: True
+5: True
+6: True
+7: False
+8: True
+9: True
+10: True
+11: False
+12: True
+13: True
+
+Nodes (Int)
+1: 0
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 0
+8: 1
+9: 1
+10: 1
+11: 0
+12: 1
+13: 1
+
+CommPath for IEDs
+1: False
+2: True
+3: True
+4: False
+5: False
+6: False
+7: False
+8: True
+
+Delivered measurements
+1: False
+2: False
+3: True
+4: False
+5: True
+6: False
+7: False
+8: False
+9: False
+10: False
+11: True
+12: False
+13: False
+14: True
+
+Delivered unique measurements
+1: False
+2: False
+3: True
+4: False
+5: True
+6: False
+7: False
+8: True
+9: False
+10: False
+11: True
+
+Execution time: 0:00:00.013000
+sat
+-----------------------------
+Solution No 5
+
+Nodes
+1: False
+2: False
+3: True
+4: True
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: False
+12: True
+13: True
+
+Nodes (Int)
+1: 0
+2: 0
+3: 1
+4: 1
+5: 1
+6: 1
+7: 1
+8: 1
+9: 1
+10: 1
+11: 0
+12: 1
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: True
+4: False
+5: False
+6: False
+7: True
+8: True
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: True
+7: False
+8: True
+9: False
+10: True
+11: True
+12: False
+13: False
+14: True
+
+Delivered unique measurements
+1: False
+2: False
+3: True
+4: True
+5: False
+6: True
+7: False
+8: True
+9: False
+10: False
+11: False
+
+Execution time: 0:00:00.010000
+sat
+-----------------------------
+Solution No 6
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: False
+6: True
+7: False
+8: True
+9: False
+10: True
+11: True
+12: True
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 0
+6: 1
+7: 0
+8: 1
+9: 0
+10: 1
+11: 1
+12: 1
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: False
+6: True
+7: False
+8: True
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: False
+7: False
+8: False
+9: False
+10: False
+11: False
+12: True
+13: True
+14: True
+
+Delivered unique measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: False
+7: False
+8: False
+9: True
+10: True
+11: True
+
+Execution time: 0:00:00.001000
+sat
+-----------------------------
+Solution No 7
+
+Nodes
+1: True
+2: True
+3: True
+4: False
+5: False
+6: True
+7: True
+8: True
+9: False
+10: True
+11: True
+12: True
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 0
+5: 0
+6: 1
+7: 1
+8: 1
+9: 0
+10: 1
+11: 1
+12: 1
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: False
+5: False
+6: True
+7: True
+8: True
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: True
+7: False
+8: True
+9: False
+10: True
+11: False
+12: False
+13: True
+14: True
+
+Delivered unique measurements
+1: False
+2: False
+3: True
+4: True
+5: False
+6: True
+7: False
+8: False
+9: False
+10: True
+11: False
+
+Execution time: 0:00:00.002000
+sat
+-----------------------------
+Solution No 8
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: False
+6: False
+7: True
+8: True
+9: False
+10: True
+11: True
+12: True
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 0
+6: 0
+7: 1
+8: 1
+9: 0
+10: 1
+11: 1
+12: 1
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: True
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: True
+7: False
+8: True
+9: False
+10: True
+11: False
+12: True
+13: False
+14: True
+
+Delivered unique measurements
+1: False
+2: False
+3: True
+4: True
+5: False
+6: True
+7: False
+8: False
+9: True
+10: False
+11: False
+
+Execution time: 0:00:00.008000
+sat
+-----------------------------
+Solution No 9
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: False
+8: False
+9: False
+10: True
+11: True
+12: True
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 0
+8: 0
+9: 0
+10: 1
+11: 1
+12: 1
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: True
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: True
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+
+Execution time: 0:00:00.011000
+unsat
+
+No more satisfiabile result
+***************************
+
+Execution time: 0:00:00.004000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: True
+8: False
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 1
+8: 0
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: True
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: True
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+
+Execution time: 0:00:00.004000
+sat
+-----------------------------
+Solution No 2
+
+Nodes
+1: False
+2: True
+3: True
+4: True
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 0
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 1
+8: 1
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: True
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: True
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+
+Execution time: 0:00:00.002000
+sat
+-----------------------------
+Solution No 3
+
+Nodes
+1: True
+2: True
+3: False
+4: True
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 0
+4: 1
+5: 1
+6: 1
+7: 1
+8: 1
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: True
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: True
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+
+Execution time: 0:00:00.003000
+sat
+-----------------------------
+Solution No 4
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: False
+6: True
+7: True
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 0
+6: 1
+7: 1
+8: 1
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: False
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: False
+7: False
+8: False
+9: False
+10: False
+11: False
+12: True
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: False
+3: False
+4: False
+5: False
+6: False
+7: False
+8: False
+9: True
+10: True
+11: False
+
+Execution time: 0:00:00.007000
+sat
+-----------------------------
+Solution No 5
+
+Nodes
+1: True
+2: True
+3: True
+4: False
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 0
+5: 1
+6: 1
+7: 1
+8: 1
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: False
+5: True
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: False
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: False
+10: True
+11: False
+
+Execution time: 0:00:00.001000
+sat
+-----------------------------
+Solution No 6
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 1
+8: 1
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: True
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: True
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+
+Execution time: 0:00:00.001000
+sat
+-----------------------------
+Solution No 7
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: False
+7: True
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 0
+7: 1
+8: 1
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: True
+6: False
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: True
+13: False
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+
+Execution time: 0:00:00.007000
+sat
+-----------------------------
+Solution No 8
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: False
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 0
+8: 1
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: True
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: True
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+
+Execution time: 0:00:00.001000
+sat
+-----------------------------
+Solution No 9
+
+Nodes
+1: True
+2: False
+3: True
+4: True
+5: True
+6: True
+7: True
+8: True
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 0
+3: 1
+4: 1
+5: 1
+6: 1
+7: 1
+8: 1
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: True
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: True
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+
+Execution time: 0:00:00.010000
+unsat
+
+No more satisfiabile result
+***************************
+
+Execution time: 0:00:00.004000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: True
+8: False
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 1
+8: 0
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: True
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: True
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+
+***************************
+
+Execution time: 0:00:00.004000
+sat
+-----------------------------
+Solution No 1
+
+Nodes
+1: True
+2: True
+3: True
+4: True
+5: True
+6: True
+7: True
+8: False
+9: True
+10: True
+11: True
+12: False
+13: True
+
+Nodes (Int)
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 1
+8: 0
+9: 1
+10: 1
+11: 1
+12: 0
+13: 1
+
+CommPath for IEDs
+1: False
+2: False
+3: False
+4: True
+5: True
+6: True
+7: False
+8: False
+
+Delivered measurements
+1: False
+2: False
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+12: True
+13: True
+14: False
+
+Delivered unique measurements
+1: False
+2: True
+3: False
+4: True
+5: False
+6: False
+7: True
+8: False
+9: True
+10: False
+11: False
+
+***************************
+
