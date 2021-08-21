@@ -1,15 +1,7 @@
+## Author: Mohammad Ashiqur Rahman, marahman@fiu.edu
 ## The model for k-Resilient Observability
 ## Solve the problem from a attack vector synthesis point of view. If an attack vector is not found, it means that the system is k-resilient.
-## Consider unique measurements from power flow and power consumption point of views
 
-## We CONSIDER the full measurement set and the input representing whether a measurement is taken or not.
-## We CONSIDER any number of intermediate nodes (RTUs) toward the MTU.
-## We CONSIDER the possbility of multiple paths from an IED to the MTU.
-## We CONSIDER the case when a measurement can be measured by more than two IEDs.
-
-## Threat vectors are printed on separate file.
-
-## Ashiq: [11/30/2017] Only the distinct threat vectors (NO SUPERSET of a threat vector) are generated.
 
 import io
 import sys
@@ -547,9 +539,6 @@ for k_r_r in range(0, k_resiliency_rtus + 1):
                 f_write.write('Solution No ' + str(num_solution) + '\n')        
 
                 m = slv.model()
-                #f_write.write('Model\n')
-                #f_write.write(str(m))
-                #f_write.write('\n')
 
                 BExprs = []                    
                 f_write.write('\nNodes\n')
@@ -619,3 +608,13 @@ f_write1.write('***************************\n\n')
 f_write2.write('***************************\n\n')
 
 ##################### End #######################
+
+
+## We CONSIDER the full measurement set and the input representing whether a measurement is taken or not.
+## We CONSIDER any number of intermediate nodes (RTUs) toward the MTU.
+## We CONSIDER the possbility of multiple paths from an IED to the MTU.
+## We CONSIDER the case when a measurement can be measured by more than two IEDs.
+
+## Threat vectors are printed on separate file.
+
+## [11/30/2017] Only the distinct threat vectors (NO SUPERSET of a threat vector) are generated.
